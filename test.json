@@ -1,47 +1,38 @@
 [
   {
-    "id": 1,
-    "name": "Max Essien",
-    "username": "max_dev",
-    "email": "maxessien@example.com",
-    "age": 16,
-    "location": "Lagos, Nigeria",
-    "isActive": true
+    "question": "What year did Nigeria get her independence",
+    "options": ["A. 1989", "B. 1658", "C. 1960"]
   },
   {
-    "id": 2,
-    "name": "Peace Essien",
-    "username": "peace_queen",
-    "email": "peace.essien@example.com",
-    "age": 38,
-    "location": "Akwa Ibom, Nigeria",
-    "isActive": false
+    "question": "Who is the strongest avatar",
+    "options": ["A. Aang", "B. Kyoshi", "C. Roku"]
   },
   {
-    "id": 3,
-    "name": "Victor Obasi",
-    "username": "vic_tech",
-    "email": "victorobasi@example.com",
-    "age": 24,
-    "location": "Abuja, Nigeria",
-    "isActive": true
+    "question": "Who is the greatest musician alive",
+    "options": ["A. Max Essien", "B. Chris Brown", "C. Davido"]
   },
   {
-    "id": 4,
-    "name": "Ada Nwosu",
-    "username": "ada_uiux",
-    "email": "adanwosu@example.com",
-    "age": 22,
-    "location": "Enugu, Nigeria",
-    "isActive": true
+    "question": "Who is the strongest avatar",
+    "options": ["A. Aang", "B. Kyoshi", "C. Roku"]
   },
   {
-    "id": 5,
-    "name": "Joshua Alabi",
-    "username": "joshcode",
-    "email": "joshua.alabi@example.com",
-    "age": 29,
-    "location": "Ibadan, Nigeria",
-    "isActive": false
+    "question": "Who is the greatest musician alive",
+    "options": ["A. Max Essien", "B. Chris Brown", "C. Davido"]
+  },
+  {
+    "question": "Who is the strongest avatar",
+    "options": ["A. Aang", "B. Kyoshi", "C. Roku"]
+  },
+  {
+    "question": "Who is the greatest musician alive",
+    "options": ["A. Max Essien", "B. Chris Brown", "C. Davido"]
+  },
+  {
+    "question": "Who is the strongest avatar",
+    "options": ["A. Aang", "B. Kyoshi", "C. Roku"]
+  },
+  {
+    "question": "Who is the greatest musician alive",
+    "options": ["A. Max Essien", "B. Chris Brown", "C. Davido"]
   }
 ]
