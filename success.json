@@ -1,452 +1,362 @@
 [
   {
-    "question": "The change from a liquid to a gas is called:",
+    "question": "Which of these is an element of art?",
     "options": [
-      "A. Condensation",
-      "B. Evaporation",
-      "C. Freezing",
-      "D. Melting"
+      "A. Composition",
+      "B. Line",
+      "C. Culture",
+      "D. Costume"
     ]
   },
   {
-    "question": "Which of these is NOT a source of energy?",
+    "question": "The musical instrument “talking drum” is a type of:",
     "options": [
-      "A. Sun",
-      "B. Water",
-      "C. Coal",
-      "D. Plastic"
+      "A. String instrument",
+      "B. Wind instrument",
+      "C. Percussion instrument",
+      "D. Brass instrument"
     ]
   },
   {
-    "question": "The movement of the Earth around the Sun is called:",
+    "question": "Which of these is used for drawing?",
     "options": [
-      "A. Rotation",
-      "B. Revolution",
-      "C. Circulation",
-      "D. Orbit"
+      "A. Needle",
+      "B. Brush",
+      "C. Chalk",
+      "D. Pencil"
     ]
   },
   {
-    "question": "Which of the following causes soil erosion?",
+    "question": "Drama is the art of:",
     "options": [
-      "A. Manure",
-      "B. Wind",
-      "C. Fertilizer",
-      "D. Compost"
+      "A. Drawing and painting",
+      "B. Acting and performance",
+      "C. Singing and drumming",
+      "D. Cooking and eating"
     ]
   },
   {
-    "question": "Which of these helps prevent pollution?",
+    "question": "The main element in painting is:",
     "options": [
-      "A. Dumping refuse in rivers",
-      "B. Burning plastics",
-      "C. Using dustbins properly",
-      "D. Throwing waste on the road"
+      "A. Line",
+      "B. Colour",
+      "C. Rhythm",
+      "D. Song"
     ]
   },
   {
-    "question": "The part of the plant that anchors it in the soil is the:",
+    "question": "Which is a traditional Nigerian dance?",
     "options": [
-      "A. Leaf",
-      "B. Stem",
-      "C. Root",
-      "D. Flower"
+      "A. Ballet",
+      "B. Atilogwu",
+      "C. Salsa",
+      "D. Waltz"
     ]
   },
   {
-    "question": "The Earth’s surface is mostly made up of:",
+    "question": "A song that is passed down orally from generation to generation is a:",
     "options": [
-      "A. Rocks",
-      "B. Mountains",
-      "C. Water",
-      "D. Sand"
+      "A. Hymn",
+      "B. Folk song",
+      "C. National anthem",
+      "D. Rap song"
     ]
   },
   {
-    "question": "A solid changing directly to gas is called:",
+    "question": "In a stage play, the person who tells the story is the:",
     "options": [
-      "A. Melting",
-      "B. Evaporation",
-      "C. Freezing",
-      "D. Sublimation"
+      "A. Actor",
+      "B. Singer",
+      "C. Narrator",
+      "D. Artist"
     ]
   },
   {
-    "question": "Which is an example of a non-living thing?",
+    "question": "The arrangement of objects in a drawing is called:",
     "options": [
-      "A. Bird",
-      "B. Tree",
-      "C. Stone",
-      "D. Dog"
+      "A. Composition",
+      "B. Repetition",
+      "C. Overlapping",
+      "D. Sketching"
     ]
   },
   {
-    "question": "Which organ helps in pumping blood throughout the body?",
+    "question": "Which of the following is a dry colouring medium?",
     "options": [
-      "A. Liver",
-      "B. Kidney",
-      "C. Heart",
-      "D. Lungs"
+      "A. Water colour",
+      "B. Poster colour",
+      "C. Crayon",
+      "D. Ink"
     ]
   },
   {
-    "question": "The force that slows or stops movement is called:",
+    "question": "Traditional music is mostly used for:",
     "options": [
-      "A. Push",
-      "B. Gravity",
-      "C. Friction",
-      "D. Speed"
+      "A. Watching movies",
+      "B. Religious practices",
+      "C. Decoration",
+      "D. Farming"
     ]
   },
   {
-    "question": "Energy stored in food is:",
+    "question": "In visual art, tone refers to:",
     "options": [
-      "A. Light energy",
-      "B. Electrical energy",
-      "C. Sound energy",
-      "D. Chemical energy"
+      "A. The sound of a song",
+      "B. Darkness or lightness of a colour",
+      "C. Musical notes",
+      "D. Colour of cloth"
     ]
   },
   {
-    "question": "Which is an effect of drug abuse?",
+    "question": "Which of the following is used for sewing in craft?",
     "options": [
-      "A. Good memory",
-      "B. Improved health",
-      "C. Addiction",
-      "D. Strength"
+      "A. Brush",
+      "B. Needle",
+      "C. Pencil",
+      "D. Clay"
     ]
   },
   {
-    "question": "An animal that lives both on land and in water is called:",
-    "options": [
-      "A. Reptile",
-      "B. Amphibian",
-      "C. Insect",
-      "D. Mammal"
-    ]
-  },
-  {
-    "question": "The largest planet in the solar system is:",
-    "options": [
-      "A. Earth",
-      "B. Saturn",
-      "C. Mars",
-      "D. Jupiter"
-    ]
-  },
-  {
-    "question": "A machine is a device that:",
-    "options": [
-      "A. Moves air",
-      "B. Increases work",
-      "C. Makes work easier",
-      "D. Creates problems"
-    ]
-  },
-  {
-    "question": "Which of these is a first-class lever?",
-    "options": [
-      "A. Nutcracker",
-      "B. Wheelbarrow",
-      "C. Crowbar",
-      "D. Arm"
-    ]
-  },
-  {
-    "question": "A tool used to tighten or loosen nuts is a:",
-    "options": [
-      "A. Screwdriver",
-      "B. Hammer",
-      "C. Spanner",
-      "D. Saw"
-    ]
-  },
-  {
-    "question": "A gear is used to:",
-    "options": [
-      "A. Cut materials",
-      "B. Store fuel",
-      "C. Transmit motion",
-      "D. Store water"
-    ]
-  },
-  {
-    "question": "A device used to measure length is a:",
-    "options": [
-      "A. Spanner",
-      "B. Tape rule",
-      "C. T-square",
-      "D. Pliers"
-    ]
-  },
-  {
-    "question": "Which material is a good conductor of electricity?",
-    "options": [
-      "A. Plastic",
-      "B. Rubber",
-      "C. Glass",
-      "D. Copper"
-    ]
-  },
-  {
-    "question": "A house plan drawn with lines is a:",
-    "options": [
-      "A. Photograph",
-      "B. Blueprint",
-      "C. Table",
-      "D. Layout"
-    ]
-  },
-  {
-    "question": "In levers, the point where the lever turns is called the:",
-    "options": [
-      "A. Load",
-      "B. Arm",
-      "C. Pivot",
-      "D. Weight"
-    ]
-  },
-  {
-    "question": "The edge of a road where people walk is called:",
-    "options": [
-      "A. Gutter",
-      "B. Sidewalk",
-      "C. Pavement",
-      "D. Footpath"
-    ]
-  },
-  {
-    "question": "Which of these is NOT a safety rule in the workshop?",
-    "options": [
-      "A. Wear protective clothing",
-      "B. Play with tools",
-      "C. Follow instructions",
-      "D. Keep tools safe"
-    ]
-  },
-  {
-    "question": "A structure built over a river is called a:",
-    "options": [
-      "A. Roof",
-      "B. Bridge",
-      "C. Tunnel",
-      "D. Ramp"
-    ]
-  },
-  {
-    "question": "One example of a permanent joint is:",
-    "options": [
-      "A. Bolting",
-      "B. Screwing",
-      "C. Welding",
-      "D. Pinning"
-    ]
-  },
-  {
-    "question": "A pulley is used to:",
-    "options": [
-      "A. Draw water from a well",
-      "B. Cook food",
-      "C. Cut metal",
-      "D. Make electricity"
-    ]
-  },
-  {
-    "question": "The main source of electrical energy in Nigeria is:",
-    "options": [
-      "A. Petrol",
-      "B. Gas",
-      "C. Hydro power",
-      "D. Solar"
-    ]
-  },
-  {
-    "question": "A technical drawing that shows three sides of an object is called:",
-    "options": [
-      "A. One-view drawing",
-      "B. Orthographic drawing",
-      "C. Perspective drawing",
-      "D. Isometric sketch"
-    ]
-  },
-  {
-    "question": "Which of these is a team sport?",
-    "options": [
-      "A. Wrestling",
-      "B. Gymnastics",
-      "C. Football",
-      "D. Judo"
-    ]
-  },
-  {
-    "question": "A person who trains athletes is a:",
-    "options": [
-      "A. Doctor",
-      "B. Referee",
-      "C. Coach",
-      "D. Fan"
-    ]
-  },
-  {
-    "question": "Which of the following prevents body odour?",
-    "options": [
-      "A. Sweating",
-      "B. Bathing",
-      "C. Eating",
-      "D. Sleeping"
-    ]
-  },
-  {
-    "question": "The heart is part of the:",
-    "options": [
-      "A. Digestive system",
-      "B. Skeletal system",
-      "C. Circulatory system",
-      "D. Excretory system"
-    ]
-  },
-  {
-    "question": "Safety rules are meant to:",
-    "options": [
-      "A. Cause injury",
-      "B. Protect people",
-      "C. Make sports boring",
-      "D. Waste time"
-    ]
-  },
-  {
-    "question": "First aid is given to:",
-    "options": [
-      "A. Cure cancer",
-      "B. Decorate the house",
-      "C. Help injured people quickly",
-      "D. Cook food"
-    ]
-  },
-  {
-    "question": "A disease that spreads from person to person is:",
-    "options": [
-      "A. Communicable",
-      "B. Hereditary",
-      "C. Congenital",
-      "D. Terminal"
-    ]
-  },
-  {
-    "question": "Which food is good for strong bones and teeth?",
-    "options": [
-      "A. Rice",
-      "B. Milk",
-      "C. Oil",
-      "D. Meat"
-    ]
-  },
-  {
-    "question": "What is used in first aid to stop bleeding?",
-    "options": [
-      "A. Bandage",
-      "B. Razor",
-      "C. Soap",
-      "D. Water"
-    ]
-  },
-  {
-    "question": "Overeating causes:",
-    "options": [
-      "A. Good sleep",
-      "B. Obesity",
-      "C. Height increase",
-      "D. Memory loss"
-    ]
-  },
-  {
-    "question": "The full meaning of ICT is:",
-    "options": [
-      "A. Information and Clean Technology",
-      "B. Internet and Communication Technology",
-      "C. Information and Communication Technology",
-      "D. Internal Computer Training"
-    ]
-  },
-  {
-    "question": "The device used to print documents is called a:",
-    "options": [
-      "A. Mouse",
-      "B. Printer",
-      "C. Monitor",
-      "D. Scanner"
-    ]
-  },
-  {
-    "question": "A computer cannot work without:",
+    "question": "Drama is performed on a:",
     "options": [
       "A. Table",
-      "B. Electricity",
-      "C. Window",
-      "D. Keyboard"
+      "B. Field",
+      "C. Stage",
+      "D. Screen"
     ]
   },
   {
-    "question": "An example of input device is:",
+    "question": "Who is responsible for directing a play?",
     "options": [
-      "A. Printer",
-      "B. Monitor",
-      "C. Mouse",
-      "D. Speaker"
+      "A. Producer",
+      "B. Scriptwriter",
+      "C. Narrator",
+      "D. Director"
     ]
   },
   {
-    "question": "The part of the computer that displays output is the:",
+    "question": "Tie and dye is a type of:",
     "options": [
-      "A. Keyboard",
-      "B. Monitor",
-      "C. CPU",
-      "D. Mouse"
+      "A. Dance",
+      "B. Traditional costume",
+      "C. Fabric decoration",
+      "D. Acting style"
     ]
   },
   {
-    "question": "A computer that is easy to carry is called a:",
+    "question": "An artist who makes sculptures is called a:",
     "options": [
-      "A. Desktop",
-      "B. Supercomputer",
-      "C. Laptop",
-      "D. Server"
+      "A. Musician",
+      "B. Dancer",
+      "C. Sculptor",
+      "D. Painter"
     ]
   },
   {
-    "question": "What does the CPU do?",
+    "question": "Which of the following is NOT a type of traditional Nigerian music?",
     "options": [
-      "A. Draw pictures",
-      "B. Store food",
-      "C. Process data",
-      "D. Type documents"
+      "A. Fuji",
+      "B. Highlife",
+      "C. Apala",
+      "D. Jazz"
     ]
   },
   {
-    "question": "Which of these stores permanent data?",
+    "question": "Which of these is a form of two-dimensional art?",
     "options": [
-      "A. RAM",
-      "B. ROM",
-      "C. CPU",
-      "D. Mouse"
+      "A. Pottery",
+      "B. Weaving",
+      "C. Drawing",
+      "D. Carving"
     ]
   },
   {
-    "question": "Which one is NOT a computer part?",
+    "question": "A musical instrument that uses strings is a:",
     "options": [
-      "A. Mouse",
-      "B. Monitor",
-      "C. Socket",
-      "D. Keyboard"
+      "A. Drum",
+      "B. Flute",
+      "C. Guitar",
+      "D. Trumpet"
     ]
   },
   {
-    "question": "The brain of the computer is the:",
+    "question": "What is choreography?",
     "options": [
-      "A. Keyboard",
-      "B. CPU",
-      "C. Speaker",
-      "D. Cable"
+      "A. Story writing",
+      "B. Dance arrangement",
+      "C. Singing practice",
+      "D. Painting patterns"
+    ]
+  },
+  {
+    "question": "A traditional festival in Nigeria is:",
+    "options": [
+      "A. Durbar",
+      "B. Christmas",
+      "C. Easter",
+      "D. Halloween"
+    ]
+  },
+  {
+    "question": "Which of the following is a traditional craft?",
+    "options": [
+      "A. Pottery",
+      "B. Video editing",
+      "C. Programming",
+      "D. Sculpting robots"
+    ]
+  },
+  {
+    "question": "In music, the solfa name for “Do” is:",
+    "options": [
+      "A. F",
+      "B. C",
+      "C. G",
+      "D. D"
+    ]
+  },
+  {
+    "question": "The lines used in music writing are called:",
+    "options": [
+      "A. Bars",
+      "B. Lines",
+      "C. Staff",
+      "D. Columns"
+    ]
+  },
+  {
+    "question": "A costume is used in:",
+    "options": [
+      "A. Music",
+      "B. Drawing",
+      "C. Drama",
+      "D. Writing"
+    ]
+  },
+  {
+    "question": "Art that can be touched and felt is called:",
+    "options": [
+      "A. Abstract art",
+      "B. Two-dimensional art",
+      "C. Three-dimensional art",
+      "D. Painting"
+    ]
+  },
+  {
+    "question": "The colour made by mixing red and blue is:",
+    "options": [
+      "A. Green",
+      "B. Brown",
+      "C. Purple",
+      "D. Yellow"
+    ]
+  },
+  {
+    "question": "Which of these is NOT a musical instrument?",
+    "options": [
+      "A. Xylophone",
+      "B. Violin",
+      "C. Trousers",
+      "D. Piano"
+    ]
+  },
+  {
+    "question": "The person who creates dance movements is the:",
+    "options": [
+      "A. Drummer",
+      "B. Singer",
+      "C. Choreographer",
+      "D. Writer"
+    ]
+  },
+  {
+    "question": "A quick drawing is called a:",
+    "options": [
+      "A. Model",
+      "B. Sculpture",
+      "C. Sketch",
+      "D. Painting"
+    ]
+  },
+  {
+    "question": "How many strings does a standard guitar have?",
+    "options": [
+      "A. 3",
+      "B. 6",
+      "C. 5",
+      "D. 7"
+    ]
+  },
+  {
+    "question": "Which of these is a primary colour?",
+    "options": [
+      "A. Purple",
+      "B. Green",
+      "C. Yellow",
+      "D. Brown"
+    ]
+  },
+  {
+    "question": "Drumming, dancing, and singing are parts of:",
+    "options": [
+      "A. Visual art",
+      "B. Performance art",
+      "C. Science",
+      "D. Cooking"
+    ]
+  },
+  {
+    "question": "The element of drama that tells what happens is called:",
+    "options": [
+      "A. Theme",
+      "B. Plot",
+      "C. Dialogue",
+      "D. Costume"
+    ]
+  },
+  {
+    "question": "Which of these is used to model clay figures?",
+    "options": [
+      "A. Water",
+      "B. Modelling tools",
+      "C. Brush",
+      "D. Ruler"
+    ]
+  },
+  {
+    "question": "The total appearance of a person on stage is the:",
+    "options": [
+      "A. Role",
+      "B. Dressing",
+      "C. Costume",
+      "D. Dance"
+    ]
+  },
+  {
+    "question": "Which of these is used for stage lighting?",
+    "options": [
+      "A. Bulb",
+      "B. Torch",
+      "C. Spotlight",
+      "D. Candle"
+    ]
+  },
+  {
+    "question": "A painting done on a wall is called a:",
+    "options": [
+      "A. Mosaic",
+      "B. Collage",
+      "C. Mural",
+      "D. Sketch"
+    ]
+  },
+  {
+    "question": "A drama with a sad ending is a:",
+    "options": [
+      "A. Comedy",
+      "B. Satire",
+      "C. Tragedy",
+      "D. Farce"
     ]
   }
-    ]
+]
