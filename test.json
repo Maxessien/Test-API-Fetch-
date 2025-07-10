@@ -1,137 +1,344 @@
 [
   {
-    "question": "Which of the following best explains why cache memory significantly improves processing speed?",
+    "question": "1. What is the primary purpose of an Information System (IS)?",
     "options": [
-      "A. It stores the largest volume of data",
-      "B. It holds input and output devices",
-      "C. It stores frequently accessed instructions for fast retrieval",
-      "D. It is directly connected to the control unit"
+      "A. Entertaining users",
+      "B. Collecting, processing, storing, and distributing information",
+      "C. Manufacturing goods",
+      "D. Replacing human workers"
     ]
   },
   {
-    "question": "Why must programs be placed in primary memory before execution?",
+    "question": "2. Which of the following best describes an Information System?",
     "options": [
-      "A. It is the cheapest memory available",
-      "B. Only primary memory supports permanent storage",
-      "C. The processor can only fetch instructions from there",
-      "D. Output devices rely on it for display"
+      "A. A software application for games",
+      "B. A mobile phone",
+      "C. A structured combination of people, technology, and processes",
+      "D. A data backup tool"
     ]
   },
   {
-    "question": "What role does the control unit play in a computer system?",
+    "question": "3. Which one is NOT a typical function of an Information System?",
     "options": [
-      "A. Performs arithmetic calculations",
-      "B. Stores instructions permanently",
-      "C. Coordinates the sequence of operations across all units",
-      "D. Converts analog signals to digital"
+      "A. Store data",
+      "B. Process transactions",
+      "C. Cook food",
+      "D. Generate reports"
     ]
   },
   {
-    "question": "Which memory type loses its data when power is switched off?",
+    "question": "4. Which of the following is considered hardware in an Information System?",
     "options": [
-      "A. Cache memory",
-      "B. Secondary memory",
-      "C. Flash drive",
-      "D. Primary memory"
+      "A. Microsoft Word",
+      "B. Google Drive",
+      "C. Laptop",
+      "D. CRM software"
     ]
   },
   {
-    "question": "Which of the following is a functional difference between analog and digital computers?",
+    "question": "5. What is the main role of hardware in an Information System?",
     "options": [
-      "A. Digital computers have more memory",
-      "B. Analog computers store data permanently",
-      "C. Analog computers handle continuous data; digital handle discrete",
-      "D. Digital computers are used only for graphics"
+      "A. To connect users to social media",
+      "B. To provide physical components for processing data",
+      "C. To entertain users",
+      "D. To create documents only"
     ]
   },
   {
-    "question": "The Arithmetic Logic Unit (ALU) performs operations on data stored in:",
+    "question": "6. What is software in an Information System?",
     "options": [
-      "A. Cache memory",
-      "B. Control registers",
-      "C. Registers",
-      "D. RAM only"
+      "A. The building that stores servers",
+      "B. The rules for entering data",
+      "C. The programs that tell hardware what to do",
+      "D. The internet cables"
     ]
   },
   {
-    "question": "A hybrid computer is best suited for situations where:",
+    "question": "7. Which is an example of software?",
     "options": [
-      "A. Data is always digital",
-      "B. Data needs to be encrypted",
-      "C. Both analog and digital data need to be processed simultaneously",
-      "D. Only numeric data is required"
+      "A. Keyboard",
+      "B. Printer",
+      "C. Microsoft Excel",
+      "D. Router"
     ]
   },
   {
-    "question": "Which unit is responsible for translating human inputs into binary for the processor to understand?",
+    "question": "8. What is 'data' in the context of Information Systems?",
     "options": [
-      "A. Output Unit",
-      "B. Control Unit",
-      "C. Input Unit",
-      "D. Memory Unit"
+      "A. Devices used in offices",
+      "B. Processed decisions",
+      "C. Raw facts or figures",
+      "D. Instructions for users"
     ]
   },
   {
-    "question": "Why is cache memory preferred for storing loop instructions during program execution?",
+    "question": "9. Which of the following is an example of data?",
     "options": [
-      "A. It has higher capacity than RAM",
-      "B. It can be accessed faster than primary memory",
-      "C. It is non-volatile",
-      "D. It is shared with secondary memory"
+      "A. Teacher's advice",
+      "B. A student’s test score",
+      "C. Wi-Fi signals",
+      "D. A software update"
     ]
   },
   {
-    "question": "A supercomputer would most likely be used for which task?",
+    "question": "10. Who are the 'people' in an Information System?",
     "options": [
-      "A. Running Microsoft Word",
-      "B. Accessing a website",
-      "C. Weather forecasting involving complex simulations",
-      "D. Performing a system shutdown"
+      "A. Only IT engineers",
+      "B. Only students",
+      "C. Everyone who uses or manages the system",
+      "D. Only customers"
     ]
   },
   {
-    "question": "What makes microcomputers different from minicomputers?",
+    "question": "11. Which person is an example of a user in an Information System?",
     "options": [
-      "A. Microcomputers are only used by government agencies",
-      "B. Minicomputers are single-user machines",
-      "C. Microcomputers use magnetic tape as storage",
-      "D. Microcomputers are designed for individual use with a microprocessor"
+      "A. A car driver",
+      "B. A chef",
+      "C. A cashier using a POS machine",
+      "D. A farmer watering crops"
     ]
   },
   {
-    "question": "In the context of computer memory, what defines a “word”?",
+    "question": "12. What does 'processes' mean in an Information System?",
     "options": [
-      "A. A group of 8 bytes",
-      "B. A collection of output instructions",
-      "C. A fixed-size group of bits (e.g., 16, 32, 64) stored or retrieved at once",
-      "D. A special instruction in the control unit"
+      "A. Steps and rules for handling data",
+      "B. External weather conditions",
+      "C. Devices used to type",
+      "D. Staff meetings"
     ]
   },
   {
-    "question": "Which unit determines how data flows between the ALU and memory?",
+    "question": "13. Which of the following best shows a process in an Information System?",
     "options": [
-      "A. Input Unit",
-      "B. Output Unit",
-      "C. Registers",
-      "D. Control Unit"
+      "A. Watching a movie",
+      "B. Writing an exam",
+      "C. A data entry rule",
+      "D. Charging a phone"
     ]
   },
   {
-    "question": "Which of these devices can serve both as an input and an output device?",
+    "question": "14. What is the purpose of a network in an Information System?",
     "options": [
-      "A. Mouse",
-      "B. Keyboard",
-      "C. Display Screen",
-      "D. Printer"
+      "A. To cook information",
+      "B. To link hardware to electricity",
+      "C. To connect devices for communication and data sharing",
+      "D. To protect software"
     ]
   },
   {
-    "question": "What is the significance of memory addresses in a computer system?",
+    "question": "15. Which is a network component?",
     "options": [
-      "A. They convert binary to decimal",
-      "B. They store input device locations",
-      "C. They specify the exact location of data/instructions in memory",
-      "D. They represent operating system commands"
+      "A. Printer",
+      "B. Router",
+      "C. Scanner",
+      "D. Monitor"
+    ]
+  },
+  {
+    "question": "16. What is the main purpose of a Transaction Processing System (TPS)?",
+    "options": [
+      "A. To play games",
+      "B. To handle routine daily transactions",
+      "C. To manage employee performance",
+      "D. To display CEO dashboards"
+    ]
+  },
+  {
+    "question": "17. Which of the following is an example of a TPS?",
+    "options": [
+      "A. A stock forecasting tool",
+      "B. A medical expert system",
+      "C. A Point-of-Sale machine in a supermarket",
+      "D. A system for analyzing performance trends"
+    ]
+  },
+  {
+    "question": "18. TPS is mostly used for:",
+    "options": [
+      "A. Creative design tasks",
+      "B. Daily business transactions like purchases",
+      "C. Executive strategy",
+      "D. Data science projects"
+    ]
+  },
+  {
+    "question": "19. What does a Management Information System (MIS) mainly provide?",
+    "options": [
+      "A. Personal games",
+      "B. Detailed sales reports for decision making",
+      "C. Video editing tools",
+      "D. Network connections"
+    ]
+  },
+  {
+    "question": "20. Which of these best represents a MIS output?",
+    "options": [
+      "A. Chat conversation",
+      "B. Security logs",
+      "C. Monthly report of inventory levels",
+      "D. Customer’s name and email"
+    ]
+  },
+  {
+    "question": "21. MIS systems are mostly used by:",
+    "options": [
+      "A. Regular customers",
+      "B. System administrators",
+      "C. Managers and supervisors",
+      "D. Security guards"
+    ]
+  },
+  {
+    "question": "22. Decision Support Systems (DSS) are designed to:",
+    "options": [
+      "A. Play multimedia files",
+      "B. Help make business decisions through analysis",
+      "C. Print receipts",
+      "D. Repair networks"
+    ]
+  },
+  {
+    "question": "23. Which is a likely feature of a DSS?",
+    "options": [
+      "A. Generates sales graphs to compare past and future data",
+      "B. Scans printed documents",
+      "C. Plays training videos",
+      "D. Schedules staff meetings"
+    ]
+  },
+  {
+    "question": "24. DSS is mostly used for:",
+    "options": [
+      "A. Making predictions and analyzing scenarios",
+      "B. Tracking attendance",
+      "C. Scanning fingerprints",
+      "D. Writing exam scripts"
+    ]
+  },
+  {
+    "question": "25. Expert Systems are used to:",
+    "options": [
+      "A. Create websites",
+      "B. Mimic expert-level human decision-making",
+      "C. Design clothes",
+      "D. Paint graphics"
+    ]
+  },
+  {
+    "question": "26. Which is a good example of an Expert System?",
+    "options": [
+      "A. ATM withdrawal system",
+      "B. School timetable tool",
+      "C. Medical diagnosis assistant",
+      "D. Typing tutor"
+    ]
+  },
+  {
+    "question": "27. What powers the knowledge in an Expert System?",
+    "options": [
+      "A. Keyboard input",
+      "B. Rules and logic from real experts",
+      "C. Internet speed",
+      "D. Electricity"
+    ]
+  },
+  {
+    "question": "28. Executive Information Systems (EIS) are built for:",
+    "options": [
+      "A. Graphic designers",
+      "B. Senior-level executives",
+      "C. Clerks",
+      "D. Janitors"
+    ]
+  },
+  {
+    "question": "29. What kind of data does EIS mostly show?",
+    "options": [
+      "A. Real-time performance dashboards",
+      "B. Raw text input",
+      "C. Employee fingerprint logs",
+      "D. USB drive contents"
+    ]
+  },
+  {
+    "question": "30. EIS systems are typically used to:",
+    "options": [
+      "A. Clean malware",
+      "B. Assist executive decision-making with summaries",
+      "C. Play movies",
+      "D. Train staff"
+    ]
+  },
+  {
+    "question": "31. What does a Knowledge Management System (KMS) mainly do?",
+    "options": [
+      "A. Control electricity",
+      "B. Manage office snacks",
+      "C. Organize and share company knowledge",
+      "D. Record songs"
+    ]
+  },
+  {
+    "question": "32. Which of the following is an example of KMS?",
+    "options": [
+      "A. A YouTube playlist",
+      "B. A shared company wiki",
+      "C. An online game",
+      "D. An audio recorder"
+    ]
+  },
+  {
+    "question": "33. Who benefits most from a KMS?",
+    "options": [
+      "A. Delivery trucks",
+      "B. New employees learning internal processes",
+      "C. Customers buying products",
+      "D. Cooks in a restaurant"
+    ]
+  },
+  {
+    "question": "34. A school uses a system that records student fees, generates receipts, and updates balances instantly. What type of system is this?",
+    "options": [
+      "A. Management Information System",
+      "B. Decision Support System",
+      "C. Transaction Processing System",
+      "D. Executive Information System"
+    ]
+  },
+  {
+    "question": "35. A CEO wants to view real-time sales performance from all branches of a company using a dashboard. What system should be used?",
+    "options": [
+      "A. Expert System",
+      "B. Executive Information System",
+      "C. Knowledge Management System",
+      "D. Transaction Processing System"
+    ]
+  },
+  {
+    "question": "36. A hospital system helps doctors choose treatment by analyzing patient symptoms using a built-in knowledge base. What type of IS is this?",
+    "options": [
+      "A. Decision Support System",
+      "B. Management Information System",
+      "C. Expert System",
+      "D. Knowledge Management System"
+    ]
+  },
+  {
+    "question": "37. A company creates a central online platform where staff can upload guides, watch tutorials, and read policies. This is an example of:",
+    "options": [
+      "A. Management Information System",
+      "B. Decision Support System",
+      "C. Knowledge Management System",
+      "D. Executive Information System"
+    ]
+  },
+  {
+    "question": "38. A manager uses a tool to compare last year’s profit trends with current figures and predict next quarter's earnings. What type of system is this?",
+    "options": [
+      "A. Executive Information System",
+      "B. Transaction Processing System",
+      "C. Decision Support System",
+      "D. Expert System"
     ]
   }
-]
+    ]
