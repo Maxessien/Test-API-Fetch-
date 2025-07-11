@@ -1,344 +1,272 @@
 [
   {
-    "question": "1. What is the primary purpose of an Information System (IS)?",
+    "question": "1. Which of the following is not one of the five core components of an Information System?",
     "options": [
-      "A. Entertaining users",
-      "B. Collecting, processing, storing, and distributing information",
-      "C. Manufacturing goods",
-      "D. Replacing human workers"
+      "A. Hardware",
+      "B. Data",
+      "C. Policies",
+      "D. Processes"
     ]
   },
   {
-    "question": "2. Which of the following best describes an Information System?",
+    "question": "2. In the IS context, “data” differs from “information” in that data is:",
     "options": [
-      "A. A software application for games",
-      "B. A mobile phone",
-      "C. A structured combination of people, technology, and processes",
-      "D. A data backup tool"
+      "A. Always numerical",
+      "B. Processed for decision-making",
+      "C. Raw and unorganized",
+      "D. Stored only in databases"
     ]
   },
   {
-    "question": "3. Which one is NOT a typical function of an Information System?",
+    "question": "3. Which layer of an IS does an ERP application like SAP primarily belong to?",
     "options": [
-      "A. Store data",
-      "B. Process transactions",
-      "C. Cook food",
-      "D. Generate reports"
+      "A. Hardware",
+      "B. Software",
+      "C. Network",
+      "D. People"
     ]
   },
   {
-    "question": "4. Which of the following is considered hardware in an Information System?",
+    "question": "4. The primary purpose of a Management Information System (MIS) is to:",
     "options": [
-      "A. Microsoft Word",
-      "B. Google Drive",
-      "C. Laptop",
-      "D. CRM software"
+      "A. Process daily business transactions",
+      "B. Provide summarized routine reports for middle management",
+      "C. Enable top executives to drill down into operational detail",
+      "D. Simulate expert human decision-making"
     ]
   },
   {
-    "question": "5. What is the main role of hardware in an Information System?",
+    "question": "5. Which characteristic distinguishes a Transaction Processing System (TPS)?",
     "options": [
-      "A. To connect users to social media",
-      "B. To provide physical components for processing data",
-      "C. To entertain users",
-      "D. To create documents only"
+      "A. Ad hoc queries",
+      "B. High-volume, real-time processing",
+      "C. Data mining capabilities",
+      "D. Executive dashboards"
     ]
   },
   {
-    "question": "6. What is software in an Information System?",
+    "question": "6. In an Expert System, the inference engine uses the:",
     "options": [
-      "A. The building that stores servers",
-      "B. The rules for entering data",
-      "C. The programs that tell hardware what to do",
-      "D. The internet cables"
+      "A. User interface to gather requirements",
+      "B. Knowledge base and rule set to derive conclusions",
+      "C. Database engine to store transactional data",
+      "D. Network protocols to communicate with clients"
     ]
   },
   {
-    "question": "7. Which is an example of software?",
+    "question": "7. Why are “processes” critical in ensuring an IS delivers consistent results?",
     "options": [
-      "A. Keyboard",
-      "B. Printer",
-      "C. Microsoft Excel",
-      "D. Router"
+      "A. They define hardware specifications",
+      "B. They standardize the sequence of activities and controls",
+      "C. They enable direct database access",
+      "D. They guarantee zero system downtime"
     ]
   },
   {
-    "question": "8. What is 'data' in the context of Information Systems?",
+    "question": "8. A network failure causes users to lose access to a shared database server. Which IS component is directly implicated?",
     "options": [
-      "A. Devices used in offices",
-      "B. Processed decisions",
-      "C. Raw facts or figures",
-      "D. Instructions for users"
+      "A. Processes",
+      "B. Data",
+      "C. Hardware",
+      "D. Networks"
     ]
   },
   {
-    "question": "9. Which of the following is an example of data?",
+    "question": "9. Why might a Knowledge Management System (KMS) be considered a strategic asset?",
     "options": [
-      "A. Teacher's advice",
-      "B. A student’s test score",
-      "C. Wi-Fi signals",
-      "D. A software update"
+      "A. It automates transaction entry",
+      "B. It preserves and disseminates organizational expertise",
+      "C. It replaces all human decision makers",
+      "D. It eliminates the need for security controls"
     ]
   },
   {
-    "question": "10. Who are the 'people' in an Information System?",
+    "question": "10. Which statement best captures the relationship between software and hardware in an IS?",
     "options": [
-      "A. Only IT engineers",
-      "B. Only students",
-      "C. Everyone who uses or manages the system",
-      "D. Only customers"
+      "A. Software exists independently of hardware",
+      "B. Hardware executes instructions defined by software",
+      "C. Hardware converts information back into data",
+      "D. Software is an optional component if people know procedures"
     ]
   },
   {
-    "question": "11. Which person is an example of a user in an Information System?",
+    "question": "11. Why is data considered the “fuel” of an Information System?",
     "options": [
-      "A. A car driver",
-      "B. A chef",
-      "C. A cashier using a POS machine",
-      "D. A farmer watering crops"
+      "A. Because it generates electricity for servers",
+      "B. Because without data, the system cannot produce information outputs",
+      "C. Because it’s physically stored in fuel tanks",
+      "D. Because data replaces the need for processes"
     ]
   },
   {
-    "question": "12. What does 'processes' mean in an Information System?",
+    "question": "12. In the context of IS security, which process ensures only authorized users can view sensitive customer records?",
     "options": [
-      "A. Steps and rules for handling data",
-      "B. External weather conditions",
-      "C. Devices used to type",
-      "D. Staff meetings"
+      "A. Data warehousing",
+      "B. Encryption",
+      "C. Access control",
+      "D. Batch processing"
     ]
   },
   {
-    "question": "13. Which of the following best shows a process in an Information System?",
+    "question": "13. An IS’s “people” component includes system designers, administrators, and:",
     "options": [
-      "A. Watching a movie",
-      "B. Writing an exam",
-      "C. A data entry rule",
-      "D. Charging a phone"
+      "A. Only technical staff",
+      "B. Only end users",
+      "C. Both technical and non-technical users",
+      "D. Only vendors"
     ]
   },
   {
-    "question": "14. What is the purpose of a network in an Information System?",
+    "question": "14. Which type of software is responsible for managing system resources and providing a platform for applications?",
     "options": [
-      "A. To cook information",
-      "B. To link hardware to electricity",
-      "C. To connect devices for communication and data sharing",
-      "D. To protect software"
+      "A. Application software",
+      "B. System software",
+      "C. Knowledge base",
+      "D. Middleware"
     ]
   },
   {
-    "question": "15. Which is a network component?",
+    "question": "15. A hospital needs to process patient admissions, lab results, and billing. Which IS component should ensure test results automatically feed into billing procedures?",
     "options": [
-      "A. Printer",
-      "B. Router",
-      "C. Scanner",
-      "D. Monitor"
+      "A. Hardware configuration",
+      "B. Network bandwidth",
+      "C. Defined workflows (processes)",
+      "D. End-user training"
     ]
   },
   {
-    "question": "16. What is the main purpose of a Transaction Processing System (TPS)?",
+    "question": "16. A retail chain wants real-time inventory updates at all outlets. Which category of IS best fits this requirement?",
     "options": [
-      "A. To play games",
-      "B. To handle routine daily transactions",
-      "C. To manage employee performance",
-      "D. To display CEO dashboards"
+      "A. MIS",
+      "B. DSS",
+      "C. TPS",
+      "D. KMS"
     ]
   },
   {
-    "question": "17. Which of the following is an example of a TPS?",
+    "question": "17. An online news portal uses user click-stream data to recommend articles. This functionality is an example of:",
     "options": [
-      "A. A stock forecasting tool",
-      "B. A medical expert system",
-      "C. A Point-of-Sale machine in a supermarket",
-      "D. A system for analyzing performance trends"
-    ]
-  },
-  {
-    "question": "18. TPS is mostly used for:",
-    "options": [
-      "A. Creative design tasks",
-      "B. Daily business transactions like purchases",
-      "C. Executive strategy",
-      "D. Data science projects"
-    ]
-  },
-  {
-    "question": "19. What does a Management Information System (MIS) mainly provide?",
-    "options": [
-      "A. Personal games",
-      "B. Detailed sales reports for decision making",
-      "C. Video editing tools",
-      "D. Network connections"
-    ]
-  },
-  {
-    "question": "20. Which of these best represents a MIS output?",
-    "options": [
-      "A. Chat conversation",
-      "B. Security logs",
-      "C. Monthly report of inventory levels",
-      "D. Customer’s name and email"
-    ]
-  },
-  {
-    "question": "21. MIS systems are mostly used by:",
-    "options": [
-      "A. Regular customers",
-      "B. System administrators",
-      "C. Managers and supervisors",
-      "D. Security guards"
-    ]
-  },
-  {
-    "question": "22. Decision Support Systems (DSS) are designed to:",
-    "options": [
-      "A. Play multimedia files",
-      "B. Help make business decisions through analysis",
-      "C. Print receipts",
-      "D. Repair networks"
-    ]
-  },
-  {
-    "question": "23. Which is a likely feature of a DSS?",
-    "options": [
-      "A. Generates sales graphs to compare past and future data",
-      "B. Scans printed documents",
-      "C. Plays training videos",
-      "D. Schedules staff meetings"
-    ]
-  },
-  {
-    "question": "24. DSS is mostly used for:",
-    "options": [
-      "A. Making predictions and analyzing scenarios",
-      "B. Tracking attendance",
-      "C. Scanning fingerprints",
-      "D. Writing exam scripts"
-    ]
-  },
-  {
-    "question": "25. Expert Systems are used to:",
-    "options": [
-      "A. Create websites",
-      "B. Mimic expert-level human decision-making",
-      "C. Design clothes",
-      "D. Paint graphics"
-    ]
-  },
-  {
-    "question": "26. Which is a good example of an Expert System?",
-    "options": [
-      "A. ATM withdrawal system",
-      "B. School timetable tool",
-      "C. Medical diagnosis assistant",
-      "D. Typing tutor"
-    ]
-  },
-  {
-    "question": "27. What powers the knowledge in an Expert System?",
-    "options": [
-      "A. Keyboard input",
-      "B. Rules and logic from real experts",
-      "C. Internet speed",
-      "D. Electricity"
-    ]
-  },
-  {
-    "question": "28. Executive Information Systems (EIS) are built for:",
-    "options": [
-      "A. Graphic designers",
-      "B. Senior-level executives",
-      "C. Clerks",
-      "D. Janitors"
-    ]
-  },
-  {
-    "question": "29. What kind of data does EIS mostly show?",
-    "options": [
-      "A. Real-time performance dashboards",
-      "B. Raw text input",
-      "C. Employee fingerprint logs",
-      "D. USB drive contents"
-    ]
-  },
-  {
-    "question": "30. EIS systems are typically used to:",
-    "options": [
-      "A. Clean malware",
-      "B. Assist executive decision-making with summaries",
-      "C. Play movies",
-      "D. Train staff"
-    ]
-  },
-  {
-    "question": "31. What does a Knowledge Management System (KMS) mainly do?",
-    "options": [
-      "A. Control electricity",
-      "B. Manage office snacks",
-      "C. Organize and share company knowledge",
-      "D. Record songs"
-    ]
-  },
-  {
-    "question": "32. Which of the following is an example of KMS?",
-    "options": [
-      "A. A YouTube playlist",
-      "B. A shared company wiki",
-      "C. An online game",
-      "D. An audio recorder"
-    ]
-  },
-  {
-    "question": "33. Who benefits most from a KMS?",
-    "options": [
-      "A. Delivery trucks",
-      "B. New employees learning internal processes",
-      "C. Customers buying products",
-      "D. Cooks in a restaurant"
-    ]
-  },
-  {
-    "question": "34. A school uses a system that records student fees, generates receipts, and updates balances instantly. What type of system is this?",
-    "options": [
-      "A. Management Information System",
-      "B. Decision Support System",
-      "C. Transaction Processing System",
-      "D. Executive Information System"
-    ]
-  },
-  {
-    "question": "35. A CEO wants to view real-time sales performance from all branches of a company using a dashboard. What system should be used?",
-    "options": [
-      "A. Expert System",
-      "B. Executive Information System",
-      "C. Knowledge Management System",
-      "D. Transaction Processing System"
-    ]
-  },
-  {
-    "question": "36. A hospital system helps doctors choose treatment by analyzing patient symptoms using a built-in knowledge base. What type of IS is this?",
-    "options": [
-      "A. Decision Support System",
-      "B. Management Information System",
-      "C. Expert System",
-      "D. Knowledge Management System"
-    ]
-  },
-  {
-    "question": "37. A company creates a central online platform where staff can upload guides, watch tutorials, and read policies. This is an example of:",
-    "options": [
-      "A. Management Information System",
-      "B. Decision Support System",
-      "C. Knowledge Management System",
-      "D. Executive Information System"
-    ]
-  },
-  {
-    "question": "38. A manager uses a tool to compare last year’s profit trends with current figures and predict next quarter's earnings. What type of system is this?",
-    "options": [
-      "A. Executive Information System",
-      "B. Transaction Processing System",
-      "C. Decision Support System",
+      "A. TPS",
+      "B. MIS",
+      "C. DSS",
       "D. Expert System"
     ]
-  }
+  },
+  {
+    "question": "18. A university deploys a dashboard showing application numbers by department. Department chairs can filter by date ranges. This IS is a(n):",
+    "options": [
+      "A. TPS",
+      "B. DSS",
+      "C. EIS",
+      "D. KMS"
     ]
+  },
+  {
+    "question": "19. A bank employs a rule-based system to approve small loans instantly. Which IS type does this describe?",
+    "options": [
+      "A. DSS",
+      "B. Expert System",
+      "C. MIS",
+      "D. TPS"
+    ]
+  },
+  {
+    "question": "20. A food delivery startup integrates its mobile app with payment gateways and restaurant POS systems. Which IS “integration” layer is being utilized?",
+    "options": [
+      "A. Hardware virtualization",
+      "B. Middleware",
+      "C. Network routing",
+      "D. Knowledge repository"
+    ]
+  },
+  {
+    "question": "21. A manufacturing plant stores machine sensor logs in a central repository for trend analysis. Which core component is emphasized?",
+    "options": [
+      "A. Software",
+      "B. Data",
+      "C. People",
+      "D. Network"
+    ]
+  },
+  {
+    "question": "22. An executive wants a high-level view of global sales with ability to drill into country data. Which IS category serves this need?",
+    "options": [
+      "A. TPS",
+      "B. MIS",
+      "C. EIS",
+      "D. KMS"
+    ]
+  },
+  {
+    "question": "23. You review an order-processing flowchart missing an approval step before payment. Which IS component gap is this?",
+    "options": [
+      "A. Hardware failure",
+      "B. Missing process definition",
+      "C. Unavailable data source",
+      "D. Lack of user training"
+    ]
+  },
+  {
+    "question": "24. A decision support tool runs slowly because the database schema is poorly normalized. Which two components are interacting poorly?",
+    "options": [
+      "A. Processes & People",
+      "B. Hardware & Software",
+      "C. Data & Software",
+      "D. Network & Hardware"
+    ]
+  },
+  {
+    "question": "25. A company’s KMS is populated with outdated policies, causing confusion. Which issue does this represent?",
+    "options": [
+      "A. Data quality",
+      "B. Network latency",
+      "C. Hardware compatibility",
+      "D. Software licensing"
+    ]
+  },
+  {
+    "question": "26. A TPS in a supermarket crashes under weekend load. Which characteristic was underestimated?",
+    "options": [
+      "A. Security controls",
+      "B. Real-time processing requirements",
+      "C. Volume and throughput capacity",
+      "D. Knowledge transfer"
+    ]
+  },
+  {
+    "question": "27. An Expert System advises a malfunction diagnosis but the rule base omits a rare fault. Which component needs updating?",
+    "options": [
+      "A. Processes",
+      "B. Data",
+      "C. Knowledge base",
+      "D. Hardware"
+    ]
+  },
+  {
+    "question": "28. You’re asked to design an IS for a regional bank. Which sequence is most logical?",
+    "options": [
+      "A. Define processes → Identify data needs → Select hardware → Choose software",
+      "B. Choose software → Define processes → Select hardware → Identify data needs",
+      "C. Identify data needs → Define processes → Select hardware → Choose software",
+      "D. Select hardware → Choose software → Define processes → Identify data needs"
+    ]
+  },
+  {
+    "question": "29. Between a cloud-based EIS and an on-premises EIS, which factor is least likely to drive a large enterprise toward cloud?",
+    "options": [
+      "A. Scalability",
+      "B. Upfront capital expenditure",
+      "C. Regulatory compliance constraints",
+      "D. Virtualization capabilities"
+    ]
+  },
+  {
+    "question": "30. To improve an underperforming MIS report system, you first examine latency, then:",
+    "options": [
+      "A. Re-engineer all business processes immediately",
+      "B. Analyze data accuracy and relevancy",
+      "C. Replace all hardware components",
+      "D. Migrate to an Expert System"
+    ]
+  }
+]
