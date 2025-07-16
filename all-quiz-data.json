@@ -1,6 +1,7 @@
 [
   {
     "id": "csc102_lecture1",
+    "course_code": "CSC 102",
     "title": "CSC 102 Lecture 1 Quiz",
     "questions": [
       {
@@ -142,6 +143,7 @@
   },
   {
     "id": "mat102_lecture1",
+    "course_code": "MAT 102",
     "title": "MAT 102 Lecture 1 Quiz",
     "questions": [
       {
@@ -283,6 +285,7 @@
   },
   {
     "id": "csc112_lecture1",
+    "course_code": "CSC 112",
     "title": "CSC 112 Lecture 1 Quiz",
     "questions": [
       {
@@ -424,6 +427,7 @@
   },
   {
     "id": "csc122_lecture1",
+    "course_code": "CSC 122",
     "title": "CSC 122 Lecture 1 Quiz",
     "questions": [
       {
@@ -565,6 +569,7 @@
   },
   {
     "id": "phy102_lecture1",
+    "course_code": "PHY 102",
     "title": "PHY 102 Lecture 1 Quiz",
     "questions": [
       {
@@ -706,6 +711,7 @@
   },
   {
     "id": "gns102_lecture1",
+    "course_code": "GNS 102",
     "title": "GNS 102 Lecture 1 Quiz",
     "questions": [
       {
@@ -847,6 +853,7 @@
   },
   {
     "id": "gns112_lecture1",
+    "course_code": "GNS 112",
     "title": "GNS 112 Lecture 1 Quiz",
     "questions": [
       {
@@ -882,249 +889,4 @@
           "A. New ideas",
           "B. Old ideas",
           "C. Copied ideas",
-          "D. Rejected ideas"
-        ]
-      },
-      {
-        "question": "5. Stakeholders are?",
-        "options": [
-          "A. Interested parties",
-          "B. Only investors",
-          "C. Only founders",
-          "D. Only customers"
-        ]
-      },
-      {
-        "question": "6. Revenue is?",
-        "options": [
-          "A. Income",
-          "B. Expense",
-          "C. Debt",
-          "D. Asset"
-        ]
-      },
-      {
-        "question": "7. Profit =?",
-        "options": [
-          "A. Revenue − Cost",
-          "B. Revenue + Cost",
-          "C. Cost − Revenue",
-          "D. Revenue × Cost"
-        ]
-      },
-      {
-        "question": "8. A startup is?",
-        "options": [
-          "A. New company",
-          "B. Old company",
-          "C. Big company",
-          "D. Government"
-        ]
-      },
-      {
-        "question": "9. Risk is?",
-        "options": [
-          "A. Chance of loss",
-          "B. Guaranteed gain",
-          "C. Zero",
-          "D. Profit"
-        ]
-      },
-      {
-        "question": "10. Pitch is?",
-        "options": [
-          "A. Business presentation",
-          "B. Music tone",
-          "C. Sports call",
-          "D. Lecture"
-        ]
-      },
-      {
-        "question": "11. Scaling means?",
-        "options": [
-          "A. Growing business",
-          "B. Shrinking business",
-          "C. Copying business",
-          "D. Selling business"
-        ]
-      },
-      {
-        "question": "12. A target market is?",
-        "options": [
-          "A. Specific customer group",
-          "B. All people",
-          "C. Only investors",
-          "D. Only suppliers"
-        ]
-      },
-      {
-        "question": "13. SWOT stands for?",
-        "options": [
-          "A. Strengths, Weaknesses, Opportunities, Threats",
-          "B. Sales, Work, Offers, Time",
-          "C. Strengths, Work, Options, Targets",
-          "D. Sales, Weaknesses, Organization, Time"
-        ]
-      },
-      {
-        "question": "14. Networking is building?",
-        "options": [
-          "A. Business relationships",
-          "B. Computer nets",
-          "C. Physical nets",
-          "D. Cooking networks"
-        ]
-      },
-      {
-        "question": "15. Lean startup favors?",
-        "options": [
-          "A. Build-measure-learn",
-          "B. Plan-code-learn",
-          "C. Buy-build-sell",
-          "D. Code-test-deploy"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "csc104_lecture1",
-    "title": "CSC 104 Lecture 1 Quiz",
-    "questions": [
-      {
-        "question": "1. What is database?",
-        "options": [
-          "A. Organized data storage",
-          "B. Software program",
-          "C. Hardware device",
-          "D. Network"
-        ]
-      },
-      {
-        "question": "2. SQL stands for?",
-        "options": [
-          "A. Structured Query Language",
-          "B. Simple Query Language",
-          "C. Structured Question Language",
-          "D. Simple Question Language"
-        ]
-      },
-      {
-        "question": "3. Which is a database model?",
-        "options": [
-          "A. Relational",
-          "B. Imperative",
-          "C. Functional",
-          "D. Logical"
-        ]
-      },
-      {
-        "question": "4. Table is made of?",
-        "options": [
-          "A. Rows and columns",
-          "B. Nodes and edges",
-          "C. Functions",
-          "D. Classes"
-        ]
-      },
-      {
-        "question": "5. Primary key is?",
-        "options": [
-          "A. Unique identifier",
-          "B. Foreign key",
-          "C. Non-unique ID",
-          "D. Optional field"
-        ]
-      },
-      {
-        "question": "6. Foreign key points to?",
-        "options": [
-          "A. Primary key in another table",
-          "B. Value in same row",
-          "C. Index",
-          "D. View"
-        ]
-      },
-      {
-        "question": "7. Which is NoSQL DB?",
-        "options": [
-          "A. MongoDB",
-          "B. MySQL",
-          "C. PostgreSQL",
-          "D. SQLite"
-        ]
-      },
-      {
-        "question": "8. Index speeds up?",
-        "options": [
-          "A. Query performance",
-          "B. Insert performance",
-          "C. Delete performance",
-          "D. Backup"
-        ]
-      },
-      {
-        "question": "9. What is normalization?",
-        "options": [
-          "A. Reduce redundancy",
-          "B. Increase redundancy",
-          "C. Backup data",
-          "D. Encrypt data"
-        ]
-      },
-      {
-        "question": "10. JOIN combines?",
-        "options": [
-          "A. Rows from two tables",
-          "B. Apps",
-          "C. Functions",
-          "D. Classes"
-        ]
-      },
-      {
-        "question": "11. ACID in DB stands for?",
-        "options": [
-          "A. Atomicity, Consistency, Isolation, Durability",
-          "B. Accuracy, Clarity, Integrity, Durability",
-          "C. Atomic, Conditional, Indexed, Durable",
-          "D. Array, Class, Interface, Data"
-        ]
-      },
-      {
-        "question": "12. DDL is for?",
-        "options": [
-          "A. Defining structure",
-          "B. Defining logic",
-          "C. Defining functions",
-          "D. Defining classes"
-        ]
-      },
-      {
-        "question": "13. Which SQL command deletes data?",
-        "options": [
-          "A. DELETE",
-          "B. DROP",
-          "C. TRUNCATE",
-          "D. REMOVE"
-        ]
-      },
-      {
-        "question": "14. Constraint enforces?",
-        "options": [
-          "A. Rules on data",
-          "B. Functions",
-          "C. Memory",
-          "D. Network"
-        ]
-      },
-      {
-        "question": "15. View is?",
-        "options": [
-          "A. Virtual table",
-          "B. Physical table",
-          "C. Index",
-          "D. Schema"
-        ]
-      }
-    ]
-  }
-]
+          "D. Reje
