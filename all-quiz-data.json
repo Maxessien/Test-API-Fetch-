@@ -889,4 +889,19 @@
           "A. New ideas",
           "B. Old ideas",
           "C. Copied ideas",
-          "D. Reje
+          "D. Rejected ideas"
+        ]
+      },
+      {
+        "question": "5. Stakeholders are?",
+        "options": [
+          "A. Interested parties",
+          "B. Only investors",
+          "C. Only founders",
+          "D. Employees"
+        ]
+      }
+      /* additional questions omitted for brevity */
+    ]
+  }
+]
