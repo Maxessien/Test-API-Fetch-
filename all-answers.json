@@ -48,5 +48,30 @@
     "B. Security and Privacy",
     "B. Scalability"
   ]
+  },
+  {
+  "id": "csc122_oer_quiz",
+  "answers": [
+    "A. A system designed to collect, process, store, and distribute information",
+    "C. To analyze historical data for decision-making",
+    "B. Logical operators used to combine search terms",
+    "D. Hashed",
+    "A. Faster retrieval times",
+    "D. Tree",
+    "B. To combine multiple sorted files into a single sorted file",
+    "D. Merge Sort",
+    "C. The maximum number of children per node",
+    "C. To facilitate efficient data retrieval",
+    "D. Sequential",
+    "B. Search Sort",
+    "D. To provide last-in, first-out (LIFO) access",
+    "A. Redundancy",
+    "A. Trees allow for faster searching",
+    "C. Merge Sort",
+    "C. Poor performance for searching operations",
+    "C. To reduce data redundancy and dependency",
+    "A. Binary tree",
+    "C. Heap"
+  ]
   }
 ]
