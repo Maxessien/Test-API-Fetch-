@@ -904,235 +904,190 @@
     ]
   },
   {
-  "id": "csc122_MIS_lecture1",
+  "id": "csc122_mis_intro",
   "course_code": "CSC 122",
-  "title": "CSC 122 MIS Lecture 1 Quiz",
+  "title": "CSC 122 MIS INTRO",
   "questions": [
     {
-      "question": "1. Which of these best captures the core function of an MIS?",
+      "question": "1. MIS primarily helps managers by providing:",
       "options": [
-        "A. Encrypting company data end‑to‑end",
-        "B. Coordinating employee work schedules",
-        "C. Collecting, processing, and distributing organizational data",
-        "D. Managing only financial transactions"
+        "A. Tools and information for informed decisions",
+        "B. Templates for marketing campaigns",
+        "C. Codes for software development",
+        "D. Training modules for employee onboarding"
       ]
     },
     {
-      "question": "2. In the “nervous system” analogy, what role do “hardware” components play?",
+      "question": "2. Which of the following is NOT listed as a purpose of MIS?",
       "options": [
-        "A. They provide the initial sensory inputs.",
-        "B. They “think” and analyze the data.",
-        "C. They act as reflexive responses.",
-        "D. They form the physical body that houses processing units."
+        "A. Decision-making support",
+        "B. Operational efficiency",
+        "C. Customer satisfaction surveys",
+        "D. Data integration"
       ]
     },
     {
-      "question": "3. Which one is not considered a type of MIS data?",
+      "question": "3. Generating reports and analyzing data trends falls under which MIS purpose?",
       "options": [
-        "A. Transactional Data",
-        "B. Master Data",
-        "C. Operational Software Data",
-        "D. External Data"
+        "A. Data integration",
+        "B. Operational efficiency",
+        "C. Decision-making support",
+        "D. Hardware management"
       ]
     },
     {
-      "question": "4. What does “master data” include?",
+      "question": "4. Automating routine tasks in MIS directly contributes to:",
       "options": [
-        "A. Daily sales figures",
-        "B. Customer profiles and product catalogs",
-        "C. Sensor‑collected machine run‑times",
-        "D. Annual market trend reports"
+        "A. Higher staffing levels",
+        "B. Operational efficiency",
+        "C. Increased manual errors",
+        "D. Reduced data integration"
       ]
     },
     {
-      "question": "5. Which software example is correctly paired with its function?",
+      "question": "5. Bringing together transactional data, customer information, and market trends is an example of:",
       "options": [
-        "A. Tableau – database storage",
-        "B. MySQL – visual dashboard creation",
-        "C. Power BI – interactive reporting and visualization",
-        "D. Windows Server – real‑time transaction processing"
+        "A. Software component",
+        "B. Data integration",
+        "C. People component",
+        "D. Processes component"
       ]
     },
     {
-      "question": "6. Within MIS, who is primarily responsible for “defining what reports are needed”?",
+      "question": "6. Which MIS component encompasses servers and networking equipment?",
       "options": [
-        "A. Database administrators",
-        "B. Managers",
-        "C. End‑users",
-        "D. Network engineers"
-      ]
-    },
-    {
-      "question": "7. Which of these is a key step under “Processes” in MIS?",
-      "options": [
-        "A. Hardware procurement",
-        "B. Data cleaning and validation",
-        "C. User password creation",
-        "D. Marketing campaign design"
-      ]
-    },
-    {
-      "question": "8. Why is “garbage in, garbage out” important for MIS?",
-      "options": [
-        "A. It applies only to manual data entry.",
-        "B. It suggests that poor UX leads to user drop‑off.",
-        "C. It warns that flawed inputs yield flawed outputs.",
-        "D. It refers to network bandwidth issues."
-      ]
-    },
-    {
-      "question": "9. Which MIS component does a network switch belong to?",
-      "options": [
-        "A. Software",
-        "B. Data",
+        "A. Data",
+        "B. Software",
         "C. Hardware",
         "D. Processes"
       ]
     },
     {
-      "question": "10. “External data” in MIS refers to information from:",
+      "question": "7. A database management system falls under which MIS component?",
       "options": [
-        "A. Other internal departments",
-        "B. Market trend reports and competitor pricing",
-        "C. User‑generated error logs",
-        "D. Company’s financial ledger"
+        "A. Hardware",
+        "B. Software",
+        "C. People",
+        "D. Data"
       ]
     },
     {
-      "question": "11. Which of these illustrates “operational efficiency” via MIS?",
+      "question": "8. “People” in MIS refers to:",
       "options": [
-        "A. Using dashboards for trend analysis",
-        "B. Automating invoice generation",
-        "C. Hiring more data entry clerks",
-        "D. Annual system upgrade"
+        "A. The target market customers",
+        "B. Users interacting with the system",
+        "C. External consultants only",
+        "D. Automated bots"
       ]
     },
     {
-      "question": "12. Cross‑department coordination in MIS achieves:",
+      "question": "9. Which component involves procedures like report generation and information dissemination?",
       "options": [
-        "A. Separate reports for each function",
-        "B. A unified, shared data view for all teams",
-        "C. Restricted data access per department",
-        "D. Manual reconciliation of spreadsheets"
+        "A. Data",
+        "B. Processes",
+        "C. Software",
+        "D. Hardware"
       ]
     },
     {
-      "question": "13. How does MIS support “strategic planning”?",
+      "question": "10. End-users, IT professionals, and managers are all part of MIS’s:",
       "options": [
-        "A. By only focusing on short‑term KPIs",
-        "B. By providing historical trends in ready‑to‑use formats",
-        "C. By limiting data access to top executives",
-        "D. By automating physical product shipments"
+        "A. Hardware component",
+        "B. Data component",
+        "C. People component",
+        "D. Processes component"
       ]
     },
     {
-      "question": "14. Which analogy pair is correct?",
+      "question": "11. MIS improves operational efficiency by:",
       "options": [
-        "A. People → body",
-        "B. Data → brain cells",
-        "C. Processes → reflexes and habits",
-        "D. Software → sensory input"
+        "A. Increasing manual data entry",
+        "B. Streamlining information flow",
+        "C. Eliminating all hardware needs",
+        "D. Outsourcing decision-making"
       ]
     },
     {
-      "question": "15. Why is “timeliness” a key MIS decision‑support feature?",
+      "question": "12. A cohesive view of operations across departments is achieved through:",
       "options": [
-        "A. It archives old data faster.",
-        "B. It encrypts reports instantly.",
-        "C. It ensures managers receive up‑to-date information when decisions are due.",
-        "D. It mandates daily staff meetings."
+        "A. People management",
+        "B. Data integration",
+        "C. Hardware upgrades",
+        "D. Process outsourcing"
       ]
     },
     {
-      "question": "16. What differentiates “validation & cleaning” from “storage & organization”?",
+      "question": "13. Which of the following is an example of MIS “data”?",
       "options": [
-        "A. Cleaning structures the data schema.",
-        "B. Cleaning checks accuracy; storage arranges data for retrieval.",
-        "C. Validation encrypts data.",
-        "D. Storage removes duplicate records."
+        "A. A server’s IP address",
+        "B. A monthly sales trend report",
+        "C. The procedure for data entry",
+        "D. An employee’s job description"
       ]
     },
     {
-      "question": "17. An MIS report showing sales dip in June exemplifies:",
+      "question": "14. MIS supports strategic planning by:",
       "options": [
-        "A. Hardware monitoring",
-        "B. Relevance in decision support",
-        "C. External data integration",
-        "D. User‑interface design"
+        "A. Providing irrelevant historical data",
+        "B. Offering timely and relevant information",
+        "C. Reducing the need for any data analysis",
+        "D. Automating only the hardware maintenance"
       ]
     },
     {
-      "question": "18. In the manufacturing scenario, what MIS component flags sub‑90% efficiency?",
+      "question": "15. Networking equipment is classified under:",
       "options": [
-        "A. People via manual logs",
-        "B. Processes (Analysis & Reporting)",
-        "C. Hardware sensors only",
-        "D. Marketing dashboards"
+        "A. Processes",
+        "B. Hardware",
+        "C. Software",
+        "D. People"
       ]
     },
     {
-      "question": "19. Which is the best description of “software” in MIS?",
+      "question": "16. A report-generation tool is categorized as:",
       "options": [
-        "A. Physical servers and cables",
-        "B. Applications that collect, process, and analyze data",
-        "C. Employee training materials",
-        "D. Printed quarterly reports"
+        "A. Hardware",
+        "B. Software",
+        "C. Data",
+        "D. Processes"
       ]
     },
     {
-      "question": "20. How does MIS reduce manual errors?",
+      "question": "17. External market trends integrated into MIS are part of the:",
       "options": [
-        "A. By deleting old records",
-        "B. By automating workflows like data entry",
-        "C. By hiring more accountants",
-        "D. By printing backup reports"
+        "A. Data component",
+        "B. People component",
+        "C. Hardware component",
+        "D. Processes component"
       ]
     },
     {
-      "question": "21. You want daily inventory alerts when stock falls below reorder level. Which elements do you need?",
+      "question": "18. Reducing manual errors is an outcome of which MIS purpose?",
       "options": [
-        "A. Manual clerk checks + Excel macros",
-        "B. Barcode scanners + weekly emailed spreadsheet",
-        "C. Hardware (scanners), Software (trigger rules), Processes (automated alerts)",
-        "D. End‑user training only"
+        "A. Data integration",
+        "B. Operational efficiency",
+        "C. People management",
+        "D. Software development"
       ]
     },
     {
-      "question": "22. A manager complains MIS dashboards are too slow. You suspect a hardware bottleneck. Which action aligns with MIS best practices?",
+      "question": "19. The method for collecting and analyzing data—such as data entry procedures—belongs to:",
       "options": [
-        "A. Upgrade network switches and increase server RAM",
-        "B. Remove data‑cleaning routines",
-        "C. Increase number of report filters",
-        "D. Delay report schedules by one day"
+        "A. Hardware",
+        "B. Processes",
+        "C. People",
+        "D. Software"
       ]
     },
     {
-      "question": "23. What’s the likely root issue when two promotions ran concurrently but only one drove sales due to confusing MIS data?",
+      "question": "20. Which combination correctly matches MIS components to examples?",
       "options": [
-        "A. Lack of master data",
-        "B. Poor data integration across marketing and sales modules",
-        "C. Excessive hardware capacity",
-        "D. Too much external data"
-      ]
-    },
-    {
-      "question": "24. You need to validate customer email entries automatically. Which process step fits?",
-      "options": [
-        "A. Distribution & Feedback",
-        "B. Analysis & Reporting",
-        "C. Validation & Cleaning",
-        "D. Data Collection"
-      ]
-    },
-    {
-      "question": "25. During a live drill, your MIS fails to notify about a critical machine fault. Which combination likely failed?",
-      "options": [
-        "A. People (untrained operators) + Data (no records)",
-        "B. Processes (no alert rules) + Software (dashboard misconfigured)",
-        "C. Hardware (sensor malfunction) + Processes (alert not triggered)",
-        "D. Software (typo in report header) + Data (missing entry)"
+        "A. Hardware–database; Software–servers; Data–user roles",
+        "B. Hardware–servers; Software–reporting tools; Data–transactional records",
+        "C. People–network cables; Processes–customer data; Software–procedures",
+        "D. Data–procedures; Processes–market trends; Hardware–software applications"
       ]
     }
   ]
- }
+}
 ]
