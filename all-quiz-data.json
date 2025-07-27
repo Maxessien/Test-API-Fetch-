@@ -185,5 +185,192 @@
       ]
     }
   ]
+  },
+  {
+  "id": "csc122_mis_part2",
+  "course_code": "CSC 122",
+  "title": "CSC 122 MIS PART 2",
+  "questions": [
+    {
+      "question": "1. MIS function that transforms raw transaction logs into weekly sales charts is called:",
+      "options": [
+        "A. Data Collection and Storage",
+        "B. Information Reporting",
+        "C. Data Processing",
+        "D. Decision Support"
+      ]
+    },
+    {
+      "question": "2. A manager runs a one‑off report to investigate an unexpected spike in returns. This is an example of a(n):",
+      "options": [
+        "A. Routine Report",
+        "B. Ad‑Hoc Report",
+        "C. Exception Report",
+        "D. Summary Report"
+      ]
+    },
+    {
+      "question": "3. Which MIS function directly uses models and simulations for “what‑if” analysis?",
+      "options": [
+        "A. Data Collection and Storage",
+        "B. Information Reporting",
+        "C. Communication",
+        "D. Decision Support"
+      ]
+    },
+    {
+      "question": "4. Highlighting invoices overdue by more than 60 days each month is best done with a(n):",
+      "options": [
+        "A. Routine Report",
+        "B. Detailed Report",
+        "C. Exception Report",
+        "D. Summary Report"
+      ]
+    },
+    {
+      "question": "5. Automating the nightly import of POS data from stores into the central database exemplifies:",
+      "options": [
+        "A. Data Processing",
+        "B. Data Collection and Storage",
+        "C. Communication",
+        "D. Decision Support"
+      ]
+    },
+    {
+      "question": "6. A high‑level quarterly financial summary used by executives is a:",
+      "options": [
+        "A. Exception Report",
+        "B. Summary Report",
+        "C. Ad‑Hoc Report",
+        "D. Detailed Report"
+      ]
+    },
+    {
+      "question": "7. Sending last‑month’s production metrics to all department heads via the MIS portal reflects the MIS function of:",
+      "options": [
+        "A. Communication",
+        "B. Decision Support",
+        "C. Information Reporting",
+        "D. Data Processing"
+      ]
+    },
+    {
+      "question": "8. Which MIS benefit is most directly linked to having historical sales trends for forecasting?",
+      "options": [
+        "A. Increased Accountability",
+        "B. Informed Planning",
+        "C. Better Coordination",
+        "D. Improved Efficiency"
+      ]
+    },
+    {
+      "question": "9. A full breakdown of individual customer purchase histories for research is produced by a:",
+      "options": [
+        "A. Routine Report",
+        "B. Summary Report",
+        "C. Detailed Report",
+        "D. Exception Report"
+      ]
+    },
+    {
+      "question": "10. Ensuring all data fields are populated correctly to avoid misleading charts addresses which MIS challenge?",
+      "options": [
+        "A. Scalability",
+        "B. User Training",
+        "C. Data Quality",
+        "D. System Integration"
+      ]
+    },
+    {
+      "question": "11. Automatically flagging stock levels below reorder thresholds in an inventory system is a form of:",
+      "options": [
+        "A. Exception Report",
+        "B. Routine Report",
+        "C. Ad‑Hoc Report",
+        "D. Summary Report"
+      ]
+    },
+    {
+      "question": "12. Integrating MIS with the company’s CRM so sales calls and leads sync requires overcoming:",
+      "options": [
+        "A. Security and Privacy",
+        "B. User Training",
+        "C. System Integration",
+        "D. Data Collection"
+      ]
+    },
+    {
+      "question": "13. Reducing the hours spent manually compiling weekly metrics is a direct benefit under:",
+      "options": [
+        "A. Improved Efficiency",
+        "B. Enhanced Decision‑Making",
+        "C. Better Coordination",
+        "D. Increased Accountability"
+      ]
+    },
+    {
+      "question": "14. Which MIS function would involve sorting, filtering, and aggregating daily web‑traffic logs?",
+      "options": [
+        "A. Information Reporting",
+        "B. Data Collection and Storage",
+        "C. Data Processing",
+        "D. Communication"
+      ]
+    },
+    {
+      "question": "15. A dashboard that updates every morning with key KPIs exemplifies:",
+      "options": [
+        "A. Ad‑Hoc Report",
+        "B. Routine Report",
+        "C. Exception Report",
+        "D. Detailed Report"
+      ]
+    },
+    {
+      "question": "16. Making shared sales forecasts available to both marketing and production teams highlights which benefit?",
+      "options": [
+        "A. Enhanced Decision‑Making",
+        "B. Better Coordination",
+        "C. Informed Planning",
+        "D. Increased Accountability"
+      ]
+    },
+    {
+      "question": "17. Keeping logs of which user accessed what report and when supports which MIS benefit?",
+      "options": [
+        "A. Improved Efficiency",
+        "B. Better Coordination",
+        "C. Increased Accountability",
+        "D. Enhanced Decision‑Making"
+      ]
+    },
+    {
+      "question": "18. Training managers on how to run custom queries and build reports addresses the MIS challenge of:",
+      "options": [
+        "A. Scalability",
+        "B. User Training",
+        "C. Data Quality",
+        "D. Security and Privacy"
+      ]
+    },
+    {
+      "question": "19. Protecting the centralized MIS database from unauthorized access primarily involves the challenge of:",
+      "options": [
+        "A. Data Quality",
+        "B. Security and Privacy",
+        "C. System Integration",
+        "D. User Training"
+      ]
+    },
+    {
+      "question": "20. Expanding the MIS to handle a tenfold increase in user logins without performance loss is testing its:",
+      "options": [
+        "A. Data Quality",
+        "B. Scalability",
+        "C. Communication",
+        "D. Decision Support"
+      ]
+    }
+  ]
   }
 ]
