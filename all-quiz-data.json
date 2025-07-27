@@ -372,5 +372,192 @@
       ]
     }
   ]
+  },
+  {
+  "id": "csc122_oer_quiz",
+  "course_code": "CSC 122",
+  "title": "CSC 122 OER QUIZ",
+  "questions": [
+    {
+      "question": "1. Which of the following best describes an information system?",
+      "options": [
+        "A. A system designed to collect, process, store, and distribute information",
+        "B. A system solely designed for physical document management",
+        "C. A system that doesn't require human interaction",
+        "D. A system that deals with physical documents only"
+      ]
+    },
+    {
+      "question": "2. What is the primary purpose of a management information system (MIS)?",
+      "options": [
+        "A. To facilitate communication between employees",
+        "B. To automate manufacturing processes",
+        "C. To analyze historical data for decision-making",
+        "D. To track financial transactions in real-time"
+      ]
+    },
+    {
+      "question": "3. In the context of information retrieval, what does the term \"Boolean operators\" refer to?",
+      "options": [
+        "A. A method of organizing files in a hierarchical structure",
+        "B. Logical operators used to combine search terms",
+        "C. A type of database management system",
+        "D. A method for storing data in databases"
+      ]
+    },
+    {
+      "question": "4. Which file organization method allows for direct access to any record in the file based on its key?",
+      "options": [
+        "A. Sequential",
+        "B. Indexed",
+        "C. Heap",
+        "D. Hashed"
+      ]
+    },
+    {
+      "question": "5. What is the main advantage of using a sorted file organization?",
+      "options": [
+        "A. Faster retrieval times",
+        "B. Reduced storage space",
+        "C. Easier implementation",
+        "D. Decreased processing speed"
+      ]
+    },
+    {
+      "question": "6. What data structure is commonly used for implementing sorting algorithms?",
+      "options": [
+        "A. Linked list",
+        "B. Stack",
+        "C. Queue",
+        "D. Tree"
+      ]
+    },
+    {
+      "question": "7. What is the purpose of merging in the context of data processing?",
+      "options": [
+        "A. To split large files into smaller segments",
+        "B. To combine multiple sorted files into a single sorted file",
+        "C. To convert unstructured data into structured data",
+        "D. To retrieve specific information from a database"
+      ]
+    },
+    {
+      "question": "8. Which sorting algorithm has the best time complexity in the worst-case scenario?",
+      "options": [
+        "A. Bubble Sort",
+        "B. Quick Sort",
+        "C. Insertion Sort",
+        "D. Merge Sort"
+      ]
+    },
+    {
+      "question": "9. In a B-tree data structure, what does the term \"order\" refer to?",
+      "options": [
+        "A. Height of the tree",
+        "B. The total number of nodes in the tree",
+        "C. The maximum number of children per node",
+        "D. The minimum number of children per node"
+      ]
+    },
+    {
+      "question": "10. What is the primary purpose of a data node in an AVL tree?",
+      "options": [
+        "A. To store redundant data",
+        "B. To enforce data integrity constraints",
+        "C. To facilitate efficient data retrieval",
+        "D. To reduce the need for data normalization"
+      ]
+    },
+    {
+      "question": "11. Which file organization method is most suitable for applications requiring sequential access to records?",
+      "options": [
+        "A. Indexed",
+        "B. Hashed",
+        "C. Heap",
+        "D. Sequential"
+      ]
+    },
+    {
+      "question": "12. Which of the following is NOT a type of sorting algorithm?",
+      "options": [
+        "A. Radix Sort",
+        "B. Search Sort",
+        "C. Shell Sort",
+        "D. Counting Sort"
+      ]
+    },
+    {
+      "question": "13. In the context of data structures, what is the primary purpose of a stack?",
+      "options": [
+        "A. To store data in a sorted manner",
+        "B. To facilitate first-in, first-out (FIFO) access",
+        "C. To implement recursive algorithms",
+        "D. To provide last-in, first-out (LIFO) access"
+      ]
+    },
+    {
+      "question": "14. Which of the following is NOT a characteristic of a well-designed database?",
+      "options": [
+        "A. Redundancy",
+        "B. Consistency",
+        "C. Integrity",
+        "D. Security"
+      ]
+    },
+    {
+      "question": "15. What is the primary advantage of using a tree data structure over a linked list?",
+      "options": [
+        "A. Trees allow for faster searching",
+        "B. Trees require less memory space",
+        "C. Trees can represent hierarchical relationships",
+        "D. Trees have constant time complexity for insertion and deletion"
+      ]
+    },
+    {
+      "question": "16. Which sorting algorithm exhibits a time complexity of O(n log n) on average?",
+      "options": [
+        "A. Bubble Sort",
+        "B. Selection Sort",
+        "C. Merge Sort",
+        "D. Insertion Sort"
+      ]
+    },
+    {
+      "question": "17. Which of the following is a disadvantage of using a heap data structure?",
+      "options": [
+        "A. Efficient retrieval of the minimum or maximum element",
+        "B. Dynamic resizing of the underlying array",
+        "C. Poor performance for searching operations",
+        "D. Constant time complexity for insertion and deletion"
+      ]
+    },
+    {
+      "question": "18. What is the primary purpose of normalization in database design?",
+      "options": [
+        "A. To eliminate duplicate data",
+        "B. To organize data into tables and columns",
+        "C. To reduce data redundancy and dependency",
+        "D. To facilitate efficient sorting operations"
+      ]
+    },
+    {
+      "question": "19. Which of the following is NOT a type of file organization method?",
+      "options": [
+        "A. Binary tree",
+        "B. B-tree",
+        "C. AVL tree",
+        "D. Trie"
+      ]
+    },
+    {
+      "question": "20. Which data structure is typically used to implement a priority queue?",
+      "options": [
+        "A. Stack",
+        "B. Queue",
+        "C. Heap",
+        "D. Linked List"
+      ]
+    }
+  ]
   }
 ]
