@@ -73,5 +73,40 @@
     "A. Binary tree",
     "C. Heap"
   ]
+  },
+  {
+  "id": "csc122_mis_part3",
+  "answers": [
+    "B. Generation of action recommendations",
+    "C. Predictive and prescriptive",
+    "A. A dashboard showing last quarter's revenue breakdown",
+    "B. To store raw data in native formats",
+    "B. Defining user requirements",
+    "C. Iterative development cycles",
+    "B. Communicating benefits and timelines to users",
+    "B. Drag-and-drop report creation",
+    "C. Compliance with international regulations",
+    "B. Tracking equipment performance sensors",
+    "C. Ensuring immutable transaction records",
+    "B. Real-time dashboarding",
+    "B. Interactive, immersive simulations",
+    "B. Automated translation and chatbots",
+    "B. Automates only rule-based, repetitive tasks",
+    "B. Timeline delays due to scope creep",
+    "B. Virtualizing servers to reduce energy use",
+    "C. Local data-center deployment",
+    "B. Access controls and audit trails",
+    "B. Testing",
+    "B. Immediate ingestion and analysis of streaming data",
+    "C. Suggests the best possible actions",
+    "B. Automated pattern recognition and action",
+    "B. Data-security and compliance alignment",
+    "C. Diagnostic analytics",
+    "B. Iteration retrospectives",
+    "B. Traceability and data integrity",
+    "B. Defining data-ownership and consent",
+    "C. Reorder 500 units of Product X by Friday",
+    "B. Cloud-based scalability"
+  ]
   }
 ]
