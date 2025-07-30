@@ -559,5 +559,282 @@
       ]
     }
   ]
+  },
+  {
+  "id": "csc122_mis_part3",
+  "course_code": "CSC 122",
+  "title": "CSC 122 MIS PART 3",
+  "questions": [
+    {
+      "question": "1. Which characteristic most differentiates prescriptive analytics from predictive analytics?",
+      "options": [
+        "A. Use of historical data",
+        "B. Generation of action recommendations",
+        "C. Visualization of past trends",
+        "D. Use of statistical algorithms"
+      ]
+    },
+    {
+      "question": "2. A company wants to forecast future sales and then automatically adjust inventory levels. Which two analytics types are they combining?",
+      "options": [
+        "A. Descriptive and prescriptive",
+        "B. Predictive and descriptive",
+        "C. Predictive and prescriptive",
+        "D. Descriptive and diagnostic"
+      ]
+    },
+    {
+      "question": "3. Which scenario best exemplifies descriptive analytics?",
+      "options": [
+        "A. A dashboard showing last quarter’s revenue breakdown",
+        "B. A model forecasting next month’s customer churn",
+        "C. An AI chatbot suggesting marketing strategies",
+        "D. An IoT sensor adjusting equipment settings in real time"
+      ]
+    },
+    {
+      "question": "4. Why might a business choose a data lake over a traditional data warehouse?",
+      "options": [
+        "A. To enforce stricter schema constraints",
+        "B. To store raw data in native formats",
+        "C. To limit real‑time data ingestion",
+        "D. To reduce storage costs by archiving only"
+      ]
+    },
+    {
+      "question": "5. In the SDLC, what is the main purpose of the analysis phase?",
+      "options": [
+        "A. Writing code",
+        "B. Defining user requirements",
+        "C. Deploying the system",
+        "D. Training end users"
+      ]
+    },
+    {
+      "question": "6. Which Agile principle directly supports rapid adaptation to changing MIS requirements?",
+      "options": [
+        "A. Extensive documentation",
+        "B. Linear milestone delivery",
+        "C. Iterative development cycles",
+        "D. Strict change control board"
+      ]
+    },
+    {
+      "question": "7. Which change‑management activity most directly reduces user resistance?",
+      "options": [
+        "A. Issuing press releases to external stakeholders",
+        "B. Communicating benefits and timelines to users",
+        "C. Hiring extra developers",
+        "D. Installing additional hardware"
+      ]
+    },
+    {
+      "question": "8. A self‑service BI tool is characterized by:",
+      "options": [
+        "A. Requiring SQL expertise",
+        "B. Drag‑and‑drop report creation",
+        "C. Manual data entry for dashboards",
+        "D. Centralized IT report generation"
+      ]
+    },
+    {
+      "question": "9. What is a primary security challenge unique to cloud‑based MIS?",
+      "options": [
+        "A. Lack of real‑time analytics",
+        "B. Physical access to on‑premises servers",
+        "C. Compliance with international regulations",
+        "D. Inflexible scalability"
+      ]
+    },
+    {
+      "question": "10. Which IoT use case in MIS involves both monitoring and analytics?",
+      "options": [
+        "A. Generating financial reports",
+        "B. Tracking equipment performance sensors",
+        "C. Writing change‑management communications",
+        "D. Designing user interfaces"
+      ]
+    },
+    {
+      "question": "11. Blockchain adds value to MIS primarily by:",
+      "options": [
+        "A. Increasing data visualization options",
+        "B. Centralizing access controls",
+        "C. Ensuring immutable transaction records",
+        "D. Automating repetitive tasks"
+      ]
+    },
+    {
+      "question": "12. An MIS dashboard that updates automatically with live KPI feeds is an example of:",
+      "options": [
+        "A. Self‑service BI",
+        "B. Real‑time dashboarding",
+        "C. Prescriptive analytics",
+        "D. Green IT initiative"
+      ]
+    },
+    {
+      "question": "13. Which VR/AR benefit is most likely to enhance HCI in a training module?",
+      "options": [
+        "A. Immutable audit trails",
+        "B. Interactive, immersive simulations",
+        "C. Automated invoice processing",
+        "D. Real‑time big‑data ingestion"
+      ]
+    },
+    {
+      "question": "14. Natural Language Processing in MIS is most often used for:",
+      "options": [
+        "A. Predictive modeling",
+        "B. Automated translation and chatbots",
+        "C. Inventory level optimization",
+        "D. Environmental monitoring"
+      ]
+    },
+    {
+      "question": "15. Robotic Process Automation (RPA) differs from AI/ML in that RPA:",
+      "options": [
+        "A. Learns patterns without human rules",
+        "B. Automates only rule‑based, repetitive tasks",
+        "C. Requires massive training datasets",
+        "D. Provides prescriptive recommendations"
+      ]
+    },
+    {
+      "question": "16. Which MIS implementation risk would best be mitigated by a thorough risk‑management plan?",
+      "options": [
+        "A. Satellite network latency",
+        "B. Timeline delays due to scope creep",
+        "C. User interface color choices",
+        "D. IoT device battery life"
+      ]
+    },
+    {
+      "question": "17. A “green IT” practice in MIS could include:",
+      "options": [
+        "A. Implementing data encryption",
+        "B. Virtualizing servers to reduce energy use",
+        "C. Adopting blockchain for security",
+        "D. Training users on analytics tools"
+      ]
+    },
+    {
+      "question": "18. Which mobile‑access requirement is least critical for a cloud‑based MIS?",
+      "options": [
+        "A. Offline data synchronization",
+        "B. Responsive UI design",
+        "C. Local data‑center deployment",
+        "D. Secure authentication mechanisms"
+      ]
+    },
+    {
+      "question": "19. Ensuring GDPR compliance in MIS most directly involves:",
+      "options": [
+        "A. Real‑time dashboards",
+        "B. Access controls and audit trails",
+        "C. Automated machine‑learning pipelines",
+        "D. AR/VR integration"
+      ]
+    },
+    {
+      "question": "20. Which SDLC phase typically uncovers the largest number of defects if done poorly?",
+      "options": [
+        "A. Maintenance",
+        "B. Testing",
+        "C. Analysis",
+        "D. Implementation"
+      ]
+    },
+    {
+      "question": "21. What distinguishes big‑data real‑time processing from batch processing?",
+      "options": [
+        "A. Use of historical data only",
+        "B. Immediate ingestion and analysis of streaming data",
+        "C. Requirement for manual data uploads",
+        "D. Lack of analytics capabilities"
+      ]
+    },
+    {
+      "question": "22. In prescriptive analytics, what role does optimization modeling play?",
+      "options": [
+        "A. Summarizes past performance",
+        "B. Forecasts uncertain outcomes",
+        "C. Suggests the best possible actions",
+        "D. Generates raw data streams"
+      ]
+    },
+    {
+      "question": "23. Combining RPA with ML would most likely achieve:",
+      "options": [
+        "A. Immutable ledger creation",
+        "B. Automated pattern recognition and action",
+        "C. Simple dashboard reporting",
+        "D. Manual data entry acceleration"
+      ]
+    },
+    {
+      "question": "24. A key challenge when integrating existing on‑premises MIS with cloud solutions is:",
+      "options": [
+        "A. Lack of vendor support",
+        "B. Data‑security and compliance alignment",
+        "C. Unlimited scalability",
+        "D. Real‑time analytics obsolescence"
+      ]
+    },
+    {
+      "question": "25. Which advanced analytics type focuses on “what happened and why”?",
+      "options": [
+        "A. Descriptive analytics",
+        "B. Predictive analytics",
+        "C. Diagnostic analytics",
+        "D. Prescriptive analytics"
+      ]
+    },
+    {
+      "question": "26. What feature of Agile aligns closely with MIS’s need for stakeholder feedback?",
+      "options": [
+        "A. Waterfall planning",
+        "B. Iteration retrospectives",
+        "C. Single‑phase approval",
+        "D. Annual budgeting"
+      ]
+    },
+    {
+      "question": "27. A blockchain‑backed supply‑chain MIS would most improve:",
+      "options": [
+        "A. User‑interface intuitiveness",
+        "B. Traceability and data integrity",
+        "C. Server virtualization",
+        "D. IoT device management"
+      ]
+    },
+    {
+      "question": "28. Which data‑privacy ethical consideration must MIS architects address?",
+      "options": [
+        "A. Ensuring unlimited user access",
+        "B. Defining data‑ownership and consent",
+        "C. Automating all user tasks",
+        "D. Prioritizing flashy visualizations"
+      ]
+    },
+    {
+      "question": "29. An example of prescriptive analytics output would be:",
+      "options": [
+        "A. “Sales grew 10% last quarter”",
+        "B. “Forecast predicts 12% growth next quarter”",
+        "C. “Reorder 500 units of Product X by Friday”",
+        "D. “Data lake stores raw customer logs”"
+      ]
+    },
+    {
+      "question": "30. Which MIS trend is least directly related to sustainability goals?",
+      "options": [
+        "A. Green IT energy optimizations",
+        "B. Cloud‑based scalability",
+        "C. Sustainable e‑waste management",
+        "D. Data‑center power consumption monitoring"
+      ]
+    }
+  ]
   }
 ]
