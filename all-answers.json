@@ -158,5 +158,35 @@
     "D. Manual mainframe processing",
     "B. Managerially focused"
   ]
-  }
+  },
+  {
+  "id": "csc122_ir_intro",
+  "answers": [
+    "C. Delivering the most relevant information quickly and efficiently",
+    "B. Map terms to the documents in which they appear",
+    "C. Stemming",
+    "B. Cosine similarity",
+    "B. Probabilistic retrieval model",
+    "B. Ambiguity",
+    "C. Match user profiles to content embeddings",
+    "D. Ranking Module",
+    "B. Returns binary (true/false) matches without gradation",
+    "B. Matching user-input text to image captions",
+    "B. Provide transparent reasons for document rankings",
+    "B. Enterprise search of internal emails",
+    "B. Broaden user queries to include related terms",
+    "B. Handling increasing volumes of data without performance loss",
+    "C. BERT-based ranking models",
+    "B. Internal documents, emails, and intranet pages",
+    "B. Allowing users to filter and refine results",
+    "C. Real-time scalability",
+    "B. The likelihood that a document satisfies a user’s information need",
+    "B. Using session history and user behavior to interpret queries",
+    "A. Indexes only academic and scholarly materials",
+    "C. Query contextualization using previous utterances",
+    "B. The precision of relevant documents across multiple recall levels",
+    "C. Multimodal Retrieval",
+    "C. High computational cost and latency"
+  ]
+ }
 ]
