@@ -1248,5 +1248,237 @@
       ]
     }
   ]
+ },
+  {
+  "id": "csc122_ir_intro",
+  "course_code": "CSC 122",
+  "title": "CSC 122 IR INTRO",
+  "questions": [
+    {
+      "question": "1. Which of the following best captures the primary goal of an Information Retrieval system?",
+      "options": [
+        "A. Maximizing the number of retrieved documents regardless of relevance",
+        "B. Providing users with the fastest possible system response time",
+        "C. Delivering the most relevant information quickly and efficiently",
+        "D. Ensuring all indexed documents are accessible to every user"
+      ]
+    },
+    {
+      "question": "2. In IR, an inverted index is primarily used to:",
+      "options": [
+        "A. Store user queries for personalization purposes",
+        "B. Map terms to the documents in which they appear",
+        "C. Assign relevance scores to documents",
+        "D. Maintain security credentials for document access"
+      ]
+    },
+    {
+      "question": "3. Which query processing step involves transforming “run,” “runs,” and “running” into “run”?",
+      "options": [
+        "A. Parsing",
+        "B. Tokenization",
+        "C. Stemming",
+        "D. Stop-word removal"
+      ]
+    },
+    {
+      "question": "4. In the Vector Space Model, document similarity is most often computed using:",
+      "options": [
+        "A. Hamming distance",
+        "B. Cosine similarity",
+        "C. Boolean intersection",
+        "D. Euclidean clustering"
+      ]
+    },
+    {
+      "question": "5. BM25 is an example of a:",
+      "options": [
+        "A. Boolean retrieval model",
+        "B. Probabilistic retrieval model",
+        "C. Graph-based retrieval model",
+        "D. Rule-based expert system"
+      ]
+    },
+    {
+      "question": "6. Which of these IR challenges is directly related to interpreting user intent from vague queries?",
+      "options": [
+        "A. Scalability",
+        "B. Ambiguity",
+        "C. Index fragmentation",
+        "D. Data normalization"
+      ]
+    },
+    {
+      "question": "7. A recommendation system like Netflix uses IR techniques primarily to:",
+      "options": [
+        "A. Crawl the web for new movies",
+        "B. Index user-generated reviews",
+        "C. Match user profiles to content embeddings",
+        "D. Enforce digital rights management"
+      ]
+    },
+    {
+      "question": "8. Which component of an IR system is responsible for ranking search results?",
+      "options": [
+        "A. Data Collection",
+        "B. User Interface",
+        "C. Query Processor",
+        "D. Ranking Module"
+      ]
+    },
+    {
+      "question": "9. The Boolean model fails to rank results because it:",
+      "options": [
+        "A. Applies weights to each term uniformly",
+        "B. Returns binary (true/false) matches without gradation",
+        "C. Requires deep neural networks for computation",
+        "D. Ignores the presence of stop-words entirely"
+      ]
+    },
+    {
+      "question": "10. Which of the following would be considered a multimodal retrieval task?",
+      "options": [
+        "A. Searching a digital library of academic papers",
+        "B. Matching user-input text to image captions",
+        "C. Executing Boolean queries over an email archive",
+        "D. Ranking news articles by publication date"
+      ]
+    },
+    {
+      "question": "11. Explainable AI in IR aims to:",
+      "options": [
+        "A. Encrypt user queries end-to-end",
+        "B. Provide transparent reasons for document rankings",
+        "C. Increase the speed of neural model inference",
+        "D. Automatically generate synonyms for query terms"
+      ]
+    },
+    {
+      "question": "12. Which IR application is most likely to require strict privacy controls?",
+      "options": [
+        "A. Public web search engine",
+        "B. Enterprise search of internal emails",
+        "C. Academic digital library",
+        "D. E-commerce product recommendations"
+      ]
+    },
+    {
+      "question": "13. Query expansion techniques are used to:",
+      "options": [
+        "A. Reduce the runtime of ranking algorithms",
+        "B. Broaden user queries to include related terms",
+        "C. Compress the inverted index for storage",
+        "D. Filter out irrelevant stop-words"
+      ]
+    },
+    {
+      "question": "14. Scalability in IR mainly addresses:",
+      "options": [
+        "A. The semantic interpretation of queries",
+        "B. Handling increasing volumes of data without performance loss",
+        "C. The fairness of ranking across demographic groups",
+        "D. The legal compliance of stored content"
+      ]
+    },
+    {
+      "question": "15. Which machine learning approach can directly learn from raw text to improve IR relevance?",
+      "options": [
+        "A. BM25",
+        "B. LSA (Latent Semantic Analysis)",
+        "C. BERT-based ranking models",
+        "D. Boolean retrieval"
+      ]
+    },
+    {
+      "question": "16. In enterprise search, “data collection” typically includes:",
+      "options": [
+        "A. Only publicly available web pages",
+        "B. Internal documents, emails, and intranet pages",
+        "C. Proprietary recommendation algorithms",
+        "D. User clickstream data exclusively"
+      ]
+    },
+    {
+      "question": "17. A search engine’s user interface aids relevance by:",
+      "options": [
+        "A. Automatically rewriting the index structure",
+        "B. Allowing users to filter and refine results",
+        "C. Encrypting search queries",
+        "D. Hosting the server hardware"
+      ]
+    },
+    {
+      "question": "18. Which challenge arises when an IR system must serve millions of concurrent users?",
+      "options": [
+        "A. Ambiguity resolution",
+        "B. Privacy policy enforcement",
+        "C. Real-time scalability",
+        "D. Synonym detection"
+      ]
+    },
+    {
+      "question": "19. Probabilistic models in IR estimate:",
+      "options": [
+        "A. The exact file size of each document",
+        "B. The likelihood that a document satisfies a user’s information need",
+        "C. The number of unique terms in the corpus",
+        "D. The physical location of indexed servers"
+      ]
+    },
+    {
+      "question": "20. Contextual understanding in future IR systems refers to:",
+      "options": [
+        "A. Parsing HTML tags in web pages",
+        "B. Using session history and user behavior to interpret queries",
+        "C. Removing stop-words more aggressively",
+        "D. Limiting results to the top 10 documents"
+      ]
+    },
+    {
+      "question": "21. A digital library differs from a general search engine primarily in that it:",
+      "options": [
+        "A. Indexes only academic and scholarly materials",
+        "B. Uses only the Boolean model for retrieval",
+        "C. Does not provide a user interface",
+        "D. Lacks any ranking mechanism"
+      ]
+    },
+    {
+      "question": "22. Which technique would help improve relevance for voice-based search?",
+      "options": [
+        "A. Inverted index compression",
+        "B. Stop-word expansion",
+        "C. Query contextualization using previous utterances",
+        "D. Boolean NOT operations"
+      ]
+    },
+    {
+      "question": "23. In IR evaluation, Mean Average Precision (MAP) measures:",
+      "options": [
+        "A. The average time to retrieve a document",
+        "B. The precision of relevant documents across multiple recall levels",
+        "C. The compression ratio of the index",
+        "D. The number of users who click on sponsored links"
+      ]
+    },
+    {
+      "question": "24. Which future trend focuses on integrating text, images, audio, and video in one search?",
+      "options": [
+        "A. Explainable AI",
+        "B. Personalization",
+        "C. Multimodal Retrieval",
+        "D. Boolean Expansion"
+      ]
+    },
+    {
+      "question": "25. A downside of deep learning models in IR is often:",
+      "options": [
+        "A. They require no training data",
+        "B. They always produce interpretable rankings",
+        "C. High computational cost and latency",
+        "D. They cannot handle large vocabularies"
+      ]
+    }
+  ]
  }
 ]
