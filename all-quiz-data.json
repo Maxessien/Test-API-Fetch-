@@ -836,5 +836,417 @@
       ]
     }
   ]
-  }
+  },
+  {
+  "id": "csc122_diff_is_mis",
+  "course_code": "CSC 122",
+  "title": "CSC 122 Difference between IS & MIS",
+  "questions": [
+    {
+      "question": "1. What does “IS” stand for?",
+      "options": [
+        "A. Internet Services",
+        "B. Information Systems",
+        "C. Integrated Software",
+        "D. Internal Security"
+      ]
+    },
+    {
+      "question": "2. Which of these is not one of the five IS components?",
+      "options": [
+        "A. Hardware",
+        "B. Software",
+        "C. Vision",
+        "D. Processes"
+      ]
+    },
+    {
+      "question": "3. MIS is a subset of IS focused primarily on:",
+      "options": [
+        "A. Data storage",
+        "B. Managerial decision-making",
+        "C. Network security",
+        "D. Transaction processing"
+      ]
+    },
+    {
+      "question": "4. Which IS component refers to users and IT staff?",
+      "options": [
+        "A. Data",
+        "B. Software",
+        "C. People",
+        "D. Hardware"
+      ]
+    },
+    {
+      "question": "5. Which system is an example of an IS?",
+      "options": [
+        "A. Decision Support System",
+        "B. Transaction Processing System",
+        "C. Executive Information System",
+        "D. Management Reporting System"
+      ]
+    },
+    {
+      "question": "6. The primary purpose of IS is to:",
+      "options": [
+        "A. Support managerial planning",
+        "B. Provide reports and dashboards",
+        "C. Improve organizational efficiency through technology integration",
+        "D. Forecast trends for executives"
+      ]
+    },
+    {
+      "question": "7. Which of these is not a typical MIS example?",
+      "options": [
+        "A. Reporting System",
+        "B. Decision Support System",
+        "C. Enterprise Resource Planning",
+        "D. Executive Information System"
+      ]
+    },
+    {
+      "question": "8. In MIS, “reports and dashboards” serve to:",
+      "options": [
+        "A. Process raw data into tables",
+        "B. Visualize and summarize data for managers",
+        "C. Store data efficiently",
+        "D. Manage hardware resources"
+      ]
+    },
+    {
+      "question": "9. Which of the following is a broad-scope system?",
+      "options": [
+        "A. MIS",
+        "B. ERP",
+        "C. Executive Information System",
+        "D. Management Reporting System"
+      ]
+    },
+    {
+      "question": "10. Which IS application is used for document creation and collaboration?",
+      "options": [
+        "A. TPS",
+        "B. OAS",
+        "C. DSS",
+        "D. EIS"
+      ]
+    },
+    {
+      "question": "11. MIS focuses on presenting processed data in formats like:",
+      "options": [
+        "A. Raw logs",
+        "B. Spreadsheets only",
+        "C. Reports and dashboards",
+        "D. Network topologies"
+      ]
+    },
+    {
+      "question": "12. Which component of IS handles procedures and operations?",
+      "options": [
+        "A. Data",
+        "B. Processes",
+        "C. Software",
+        "D. Hardware"
+      ]
+    },
+    {
+      "question": "13. A CRM system is categorized under:",
+      "options": [
+        "A. MIS",
+        "B. IS",
+        "C. Neither IS nor MIS",
+        "D. Only hardware component"
+      ]
+    },
+    {
+      "question": "14. The scope of MIS is described as:",
+      "options": [
+        "A. Broad",
+        "B. Unlimited",
+        "C. Focused on managerial support",
+        "D. Identical to IS"
+      ]
+    },
+    {
+      "question": "15. Which of these is not a purpose of MIS?",
+      "options": [
+        "A. Planning",
+        "B. Controlling",
+        "C. Transaction record-keeping",
+        "D. Decision-making support"
+      ]
+    },
+    {
+      "question": "16. ERP, CRM, and SCM are examples of:",
+      "options": [
+        "A. MIS",
+        "B. IS",
+        "C. Only hardware",
+        "D. Only software"
+      ]
+    },
+    {
+      "question": "17. Which MIS tool provides analytical models for complex decisions?",
+      "options": [
+        "A. TPS",
+        "B. DSS",
+        "C. OAS",
+        "D. ERP"
+      ]
+    },
+    {
+      "question": "18. An EIS primarily offers:",
+      "options": [
+        "A. Daily transaction logging",
+        "B. High-level summaries to executives",
+        "C. Middleware integration",
+        "D. Network monitoring"
+      ]
+    },
+    {
+      "question": "19. Transaction Processing Systems manage:",
+      "options": [
+        "A. Managerial forecasts",
+        "B. Daily business transactions",
+        "C. Executive dashboards",
+        "D. Data warehousing"
+      ]
+    },
+    {
+      "question": "20. The integration strategy that links systems for seamless information flow is:",
+      "options": [
+        "A. Data integration",
+        "B. Process integration",
+        "C. System integration",
+        "D. User integration"
+      ]
+    },
+    {
+      "question": "21. A major benefit of integrating IS and MIS is:",
+      "options": [
+        "A. More data silos",
+        "B. Enhanced decision-making",
+        "C. Increased hardware costs",
+        "D. Reduced reporting"
+      ]
+    },
+    {
+      "question": "22. Which challenge arises from incompatible data formats across systems?",
+      "options": [
+        "A. Hyperautomation",
+        "B. Data silos",
+        "C. Cloud computing",
+        "D. Modern trends"
+      ]
+    },
+    {
+      "question": "23. Early mainframe systems were used for tasks like:",
+      "options": [
+        "A. AI analytics",
+        "B. Payroll and inventory management",
+        "C. Cloud services",
+        "D. Real-time dashboards"
+      ]
+    },
+    {
+      "question": "24. Cloud-based MIS offers:",
+      "options": [
+        "A. Only offline analysis",
+        "B. Real-time data access and scalability",
+        "C. Higher data silos",
+        "D. Slower reporting"
+      ]
+    },
+    {
+      "question": "25. Big Data Analytics in MIS primarily provides:",
+      "options": [
+        "A. Simple reports",
+        "B. Deeper insights and predictive capabilities",
+        "C. Hardware management",
+        "D. Only storage solutions"
+      ]
+    },
+    {
+      "question": "26. AI and ML in MIS enhance:",
+      "options": [
+        "A. Hardware lifespan",
+        "B. Automation and decision support",
+        "C. Only transaction speed",
+        "D. User resistance"
+      ]
+    },
+    {
+      "question": "27. Hyperautomation combines AI with:",
+      "options": [
+        "A. Legacy mainframes",
+        "B. RPA and other technologies",
+        "C. Only manual processes",
+        "D. Office Automation Systems"
+      ]
+    },
+    {
+      "question": "28. Real-time data processing allows:",
+      "options": [
+        "A. Batch-only insights",
+        "B. Immediate analytics and decision-making",
+        "C. Manual report generation",
+        "D. Hardware upgrades"
+      ]
+    },
+    {
+      "question": "29. Enhanced user experience in IS/MIS is achieved through:",
+      "options": [
+        "A. Complex menus",
+        "B. Intuitive interfaces and personalization",
+        "C. Larger hardware",
+        "D. More raw data"
+      ]
+    },
+    {
+      "question": "30. An HIS used by a hospital is an example of:",
+      "options": [
+        "A. MIS",
+        "B. IS",
+        "C. Only software component",
+        "D. Only hardware component"
+      ]
+    },
+    {
+      "question": "31. Monthly sales performance reports for regional managers illustrate:",
+      "options": [
+        "A. TPS",
+        "B. MIS in action",
+        "C. OAS",
+        "D. CRM"
+      ]
+    },
+    {
+      "question": "32. Data warehouses are primarily used for:",
+      "options": [
+        "A. Real-time transaction logging",
+        "B. Unified analysis of disparate systems",
+        "C. Only network security",
+        "D. Hardware diagnostics"
+      ]
+    },
+    {
+      "question": "33. Which sector example used an MES?",
+      "options": [
+        "A. Retail",
+        "B. Manufacturing",
+        "C. Healthcare",
+        "D. Financial"
+      ]
+    },
+    {
+      "question": "34. An MIS that tracks clinical performance metrics is used in:",
+      "options": [
+        "A. Retail",
+        "B. Financial services",
+        "C. Healthcare",
+        "D. Manufacturing"
+      ]
+    },
+    {
+      "question": "35. The key difference in “users” between IS and MIS is that MIS is for:",
+      "options": [
+        "A. Operational staff",
+        "B. IT technicians",
+        "C. Managers and decision-makers",
+        "D. All employees equally"
+      ]
+    },
+    {
+      "question": "36. Which of the following is a process integration example?",
+      "options": [
+        "A. Linking order processing to inventory updates",
+        "B. Adding more servers",
+        "C. Printing paper reports",
+        "D. Disabling middleware"
+      ]
+    },
+    {
+      "question": "37. The “people” component in IS does not include:",
+      "options": [
+        "A. IT professionals",
+        "B. End users",
+        "C. Network switches",
+        "D. System administrators"
+      ]
+    },
+    {
+      "question": "38. Office Automation Systems (OAS) are used for:",
+      "options": [
+        "A. Complex analytics",
+        "B. Document creation and collaboration",
+        "C. Real-time controls",
+        "D. Inventory management"
+      ]
+    },
+    {
+      "question": "39. ERP stands for:",
+      "options": [
+        "A. Enterprise Resource Planning",
+        "B. Executive Reporting Platform",
+        "C. Enterprise Reporting Process",
+        "D. External Resource Portal"
+      ]
+    },
+    {
+      "question": "40. CRM systems primarily manage:",
+      "options": [
+        "A. Machine performance",
+        "B. Customer relationships",
+        "C. Executive summaries",
+        "D. Network traffic"
+      ]
+    },
+    {
+      "question": "41. A Decision Support System (DSS) is designed to:",
+      "options": [
+        "A. Record daily transactions",
+        "B. Provide analytical tools for complex decisions",
+        "C. Automate document workflows",
+        "D. Integrate hardware"
+      ]
+    },
+    {
+      "question": "42. Which MIS example provides ad-hoc and scheduled reports?",
+      "options": [
+        "A. TPS",
+        "B. Reporting System",
+        "C. OAS",
+        "D. MES"
+      ]
+    },
+    {
+      "question": "43. MIS first rose to prominence in which decades?",
+      "options": [
+        "A. 1960s–1970s",
+        "B. 1980s–1990s",
+        "C. 2000s–2010s",
+        "D. 2010s–2020s"
+      ]
+    },
+    {
+      "question": "44. Which is not listed as a modern trend in IS/MIS?",
+      "options": [
+        "A. Cloud Computing",
+        "B. Big Data Analytics",
+        "C. AI and ML integration",
+        "D. Manual mainframe processing"
+      ]
+    },
+    {
+      "question": "45. The main recap distinction: IS is broad; MIS is:",
+      "options": [
+        "A. More hardware-centric",
+        "B. Managerially focused",
+        "C. Same as IS",
+        "D. Only about software"
+      ]
+    }
+  ]
+ }
 ]
