@@ -188,5 +188,30 @@
     "C. Multimodal Retrieval",
     "C. High computational cost and latency"
   ]
- }
+ },
+  {
+  "id": "phy102_electric_charge",
+  "answers": [
+    "D. Charge can be created or destroyed during transfer between objects",
+    "C. Loses electrons",
+    "B. Electrons move from glass to silk",
+    "A. 2.0 × 10¹",
+    "A. Ampere-second",
+    "C. Conductors permit charge movement; insulators do not",
+    "C. Quarter the force",
+    "B. k = 1/(4πε₀)",
+    "B. The vector sum of individual forces",
+    "C. A particle’s charge remains the same regardless of speed",
+    "C. N = q / e",
+    "A. Zero",
+    "C. Rubber",
+    "B. 2.25 × 10⁻¹",
+    "D. Electric fields exist in moving charge",
+    "C. 3",
+    "B. From q₁ toward q₂",
+    "D. Increasing one of the charges",
+    "C. Electron distribution around the nucleus",
+    "C. Conservation of charge"
+  ]
+  }
 ]
