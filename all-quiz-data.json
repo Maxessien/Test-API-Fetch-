@@ -1480,5 +1480,192 @@
       ]
     }
   ]
+ },
+  {
+  "id": "phy102_electric_charge",
+  "course_code": "PHY 102",
+  "title": "PHY 102 Electric charge quiz",
+  "questions": [
+    {
+      "question": "1. Which of the following statements about electric charge is not correct?",
+      "options": [
+        "A. Charge is quantized in integral multiples of 1.60 × 10⁻¹⁹ C",
+        "B. Like charges repel, and unlike charges attract",
+        "C. Protons and electrons carry equal-magnitude charges but opposite signs",
+        "D. Charge can be created or destroyed during transfer between objects"
+      ]
+    },
+    {
+      "question": "2. An isolated neutral atom becomes a positive ion when it:",
+      "options": [
+        "A. Gains protons",
+        "B. Gains electrons",
+        "C. Loses electrons",
+        "D. Gains neutrons"
+      ]
+    },
+    {
+      "question": "3. If you rub glass with silk, the glass typically acquires a net positive charge because:",
+      "options": [
+        "A. Protons move from silk to glass",
+        "B. Electrons move from glass to silk",
+        "C. Electrons move from silk to glass",
+        "D. Neutrons move from silk to glass"
+      ]
+    },
+    {
+      "question": "4. How many electrons are needed to produce a charge of –3.2 × 10⁻¹⁸ C?",
+      "options": [
+        "A. 2.0 × 10¹",
+        "B. 20",
+        "C. 2.0 × 10⁻¹",
+        "D. 200"
+      ]
+    },
+    {
+      "question": "5. The SI unit of electric charge is defined as:",
+      "options": [
+        "A. Ampere-second",
+        "B. Volt-ampere",
+        "C. Coulomb per meter",
+        "D. Newton-meter squared per coulomb"
+      ]
+    },
+    {
+      "question": "6. Which property distinguishes an insulator from a conductor?",
+      "options": [
+        "A. Conductors have no free electrons",
+        "B. Insulators allow easy charge transfer",
+        "C. Conductors permit charge movement; insulators do not",
+        "D. Both have identical electron mobility"
+      ]
+    },
+    {
+      "question": "7. According to Coulomb’s law in vacuum, doubling the distance between two equal charges will:",
+      "options": [
+        "A. Double the force",
+        "B. Halve the force",
+        "C. Quarter the force",
+        "D. Leave the force unchanged"
+      ]
+    },
+    {
+      "question": "8. Which expression correctly relates the Coulomb constant k to the permittivity of free space ε₀?",
+      "options": [
+        "A. k = 4πε₀",
+        "B. k = 1/(4πε₀)",
+        "C. k = ε₀/4π",
+        "D. k = 4π/ε₀"
+      ]
+    },
+    {
+      "question": "9. The principle of superposition states that the total electrostatic force on a charge is:",
+      "options": [
+        "A. The product of individual forces",
+        "B. The vector sum of individual forces",
+        "C. The scalar sum of force magnitudes",
+        "D. Zero if more than two charges are present"
+      ]
+    },
+    {
+      "question": "10. Which scenario demonstrates the invariance of charge?",
+      "options": [
+        "A. A fast-moving electron has more charge than a slow one",
+        "B. A proton’s charge changes when heated",
+        "C. A particle’s charge remains the same regardless of speed",
+        "D. Charge increases with kinetic energy"
+      ]
+    },
+    {
+      "question": "11. In Example 1.1, the number of electrons equivalent to 1 C was calculated as 6.25 × 10¹⁸. This follows directly from which relation?",
+      "options": [
+        "A. q = N/e",
+        "B. N = q · e",
+        "C. N = q / e",
+        "D. q = e / N"
+      ]
+    },
+    {
+      "question": "12. Two point charges, +q and –q, are fixed 2 m apart. At the midpoint, the net force on a test charge will be:",
+      "options": [
+        "A. Zero",
+        "B. Directed toward +q",
+        "C. Directed toward –q",
+        "D. Infinite"
+      ]
+    },
+    {
+      "question": "13. Which of the following materials is a good electrical insulator?",
+      "options": [
+        "A. Copper",
+        "B. Aluminum",
+        "C. Rubber",
+        "D. Silver"
+      ]
+    },
+    {
+      "question": "14. If q₁ = 5 µC and q₂ = 5 µC, and they’re 1 m apart in air, the force between them (in N) is closest to:",
+      "options": [
+        "A. 2.25 × 10⁻⁴",
+        "B. 2.25 × 10⁻¹",
+        "C. 2.25 × 10⁻⁹",
+        "D. 2.25 × 10⁴"
+      ]
+    },
+    {
+      "question": "15. Which fact was not explicitly stated in the introductory list of electrostatics experiments?",
+      "options": [
+        "A. Two types of charge exist",
+        "B. Charge is conserved",
+        "C. Charge is invariant with speed",
+        "D. Electric fields exist in moving charge"
+      ]
+    },
+    {
+      "question": "16. An ion with charge +3e has how many excess protons compared to electrons?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 0"
+      ]
+    },
+    {
+      "question": "17. When calculating the force vector F₁₂, the unit vector âᵣ points:",
+      "options": [
+        "A. From q₂ toward q₁",
+        "B. From q₁ toward q₂",
+        "C. In the direction of the net force on both charges",
+        "D. Always toward the origin"
+      ]
+    },
+    {
+      "question": "18. Which of the following increases the electrostatic force between two charges?",
+      "options": [
+        "A. Increasing separation",
+        "B. Using a medium of higher permittivity",
+        "C. Decreasing both charges equally",
+        "D. Increasing one of the charges"
+      ]
+    },
+    {
+      "question": "19. In the context of electrostatics, what does the term “diffuse cloud” refer to?",
+      "options": [
+        "A. Proton distribution in the nucleus",
+        "B. Neutron shell around the nucleus",
+        "C. Electron distribution around the nucleus",
+        "D. Ionized gas surrounding atoms"
+      ]
+    },
+    {
+      "question": "20. Which law or principle ensures that the total charge in an isolated system remains unchanged?",
+      "options": [
+        "A. Coulomb’s law",
+        "B. Principle of superposition",
+        "C. Conservation of charge",
+        "D. Invariance of charge"
+      ]
+    }
+  ]
  }
 ]
