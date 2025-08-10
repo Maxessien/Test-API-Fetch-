@@ -1989,5 +1989,282 @@
       ]
     }
    ]
- }
+ },
+  {
+  "id": "csc122_mis_vs_is",
+  "course_code": "CSC 122",
+  "title": "CSC 122 MIS VS IS",
+  "questions": [
+    {
+      "question": "1. Which of the following is NOT typically considered a component of Information Systems (IS)?",
+      "options": [
+        "A. Hardware",
+        "B. Reports and dashboards",
+        "C. People",
+        "D. Processes"
+      ]
+    },
+    {
+      "question": "2. Management Information Systems (MIS) primarily focus on:",
+      "options": [
+        "A. Automating routine operational tasks",
+        "B. Providing managers with tools for decision-making",
+        "C. Managing hardware and networking equipment",
+        "D. Developing software applications"
+      ]
+    },
+    {
+      "question": "3. An example of an Information System that integrates different business functions like finance and HR is:",
+      "options": [
+        "A. Decision Support System (DSS)",
+        "B. Enterprise Resource Planning (ERP)",
+        "C. Executive Information System (EIS)",
+        "D. Reporting System"
+      ]
+    },
+    {
+      "question": "4. Which of the following best describes the scope difference between IS and MIS?",
+      "options": [
+        "A. IS is focused only on managerial decision-making",
+        "B. MIS has a broader scope including all types of data processing",
+        "C. IS covers a broad range of systems, while MIS focuses on managerial support",
+        "D. MIS is unrelated to organizational data handling"
+      ]
+    },
+    {
+      "question": "5. Which sector example involves an MIS generating monthly sales reports to aid regional managers?",
+      "options": [
+        "A. Healthcare",
+        "B. Retail",
+        "C. Manufacturing",
+        "D. Financial"
+      ]
+    },
+    {
+      "question": "6. A challenge in integrating IS and MIS systems often involves:",
+      "options": [
+        "A. Excessively simple data formats",
+        "B. Data silos with incompatible data structures",
+        "C. Overly cheap implementation costs",
+        "D. Lack of user training"
+      ]
+    },
+    {
+      "question": "7. What is a common benefit of integrating various Information Systems with MIS?",
+      "options": [
+        "A. Increased data redundancy",
+        "B. Enhanced decision-making through unified data views",
+        "C. More complex manual data entry",
+        "D. Decreased reporting accuracy"
+      ]
+    },
+    {
+      "question": "8. In the historical development of IS and MIS, early systems mainly automated:",
+      "options": [
+        "A. Complex managerial decisions",
+        "B. Routine tasks like payroll and inventory",
+        "C. Artificial intelligence applications",
+        "D. Cloud-based computing"
+      ]
+    },
+    {
+      "question": "9. Which modern technology trend has enhanced both IS and MIS with scalability and remote access?",
+      "options": [
+        "A. Big Data Analytics",
+        "B. Cloud Computing",
+        "C. Hyperautomation",
+        "D. Legacy Systems"
+      ]
+    },
+    {
+      "question": "10. Which MIS example provides high-level summaries and dashboards specifically for senior executives?",
+      "options": [
+        "A. Transaction Processing System (TPS)",
+        "B. Executive Information System (EIS)",
+        "C. Manufacturing Execution System (MES)",
+        "D. Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "question": "11. Process integration in IS and MIS refers to:",
+      "options": [
+        "A. Using middleware to connect hardware devices",
+        "B. Combining business processes across systems for synchronized operations",
+        "C. Developing new software applications from scratch",
+        "D. Creating isolated systems to handle data separately"
+      ]
+    },
+    {
+      "question": "12. What type of data handling is emphasized more in MIS compared to IS?",
+      "options": [
+        "A. Raw data collection",
+        "B. Presentation of processed data in reports and dashboards",
+        "C. Physical storage of data",
+        "D. Network communication protocols"
+      ]
+    },
+    {
+      "question": "13. Which of the following is NOT an example of an Information System?",
+      "options": [
+        "A. Customer Relationship Management (CRM)",
+        "B. Transaction Processing System (TPS)",
+        "C. Decision Support System (DSS)",
+        "D. Office Automation System (OAS)"
+      ]
+    },
+    {
+      "question": "14. A banking institution's system that generates financial reports and conducts risk analysis is an example of:",
+      "options": [
+        "A. Information System",
+        "B. Management Information System",
+        "C. Manufacturing Execution System",
+        "D. Hospital Information System"
+      ]
+    },
+    {
+      "question": "15. The narrow scope of MIS primarily supports:",
+      "options": [
+        "A. Operational staff activities",
+        "B. Managerial functions such as planning and control",
+        "C. Software development",
+        "D. Network administration"
+      ]
+    },
+    {
+      "question": "16. Which of the following technologies is contributing to enhanced automation and pattern recognition in MIS?",
+      "options": [
+        "A. Manual reporting",
+        "B. Artificial Intelligence and Machine Learning",
+        "C. Basic spreadsheet tools",
+        "D. Legacy hardware"
+      ]
+    },
+    {
+      "question": "17. In a manufacturing environment, which system manages production processes and machine performance?",
+      "options": [
+        "A. Management Information System (MIS)",
+        "B. Manufacturing Execution System (MES)",
+        "C. Customer Relationship Management (CRM)",
+        "D. Decision Support System (DSS)"
+      ]
+    },
+    {
+      "question": "18. Which integration technique involves unifying data from ERP, CRM, and TPS for analysis within MIS?",
+      "options": [
+        "A. Middleware usage",
+        "B. Manual data entry",
+        "C. Cloud storage only",
+        "D. Standalone databases"
+      ]
+    },
+    {
+      "question": "19. Which of the following is NOT a key purpose of Information Systems (IS)?",
+      "options": [
+        "A. Improving organizational efficiency",
+        "B. Supporting a broad range of organizational functions",
+        "C. Focusing solely on managerial decision-making",
+        "D. Integrating technology infrastructure"
+      ]
+    },
+    {
+      "question": "20. A hospital's system that tracks clinical performance metrics to support strategic decisions is best classified as:",
+      "options": [
+        "A. Information System (IS)",
+        "B. Management Information System (MIS)",
+        "C. Office Automation System (OAS)",
+        "D. Transaction Processing System (TPS)"
+      ]
+    },
+    {
+      "question": "21. What major challenge increases complexity in integrating IS and MIS?",
+      "options": [
+        "A. Simplicity of data formats",
+        "B. Technical difficulty requiring resources and expertise",
+        "C. Low cost of implementation",
+        "D. Lack of system users"
+      ]
+    },
+    {
+      "question": "22. Which system type is primarily designed for use by operational staff rather than managers?",
+      "options": [
+        "A. Management Information System (MIS)",
+        "B. Transaction Processing System (TPS)",
+        "C. Executive Information System (EIS)",
+        "D. Decision Support System (DSS)"
+      ]
+    },
+    {
+      "question": "23. The main purpose of Decision Support Systems (DSS) is to:",
+      "options": [
+        "A. Automate routine clerical tasks",
+        "B. Provide analytical tools for complex decision-making",
+        "C. Generate payroll reports",
+        "D. Manage hardware equipment"
+      ]
+    },
+    {
+      "question": "24. Which of these best describes the role of people in Information Systems?",
+      "options": [
+        "A. Only hardware maintenance staff",
+        "B. Users and IT professionals interacting with the system",
+        "C. Data storage facilities",
+        "D. Software coding exclusively"
+      ]
+    },
+    {
+      "question": "25. The use of dashboards in MIS primarily aims to:",
+      "options": [
+        "A. Store raw data",
+        "B. Visualize and summarize information for managers",
+        "C. Automate hardware functions",
+        "D. Process transactions automatically"
+      ]
+    },
+    {
+      "question": "26. Hyperautomation in the context of IS and MIS refers to:",
+      "options": [
+        "A. Automating simple manual tasks only",
+        "B. Combining multiple advanced technologies to automate complex processes",
+        "C. Reducing automation to only critical functions",
+        "D. Manual monitoring of automated systems"
+      ]
+    },
+    {
+      "question": "27. Which of the following best captures the distinction between IS and MIS users?",
+      "options": [
+        "A. IS users are only managers",
+        "B. MIS users include operational staff and customers",
+        "C. IS users span all organizational roles, MIS users are mainly managers",
+        "D. MIS users include only IT professionals"
+      ]
+    },
+    {
+      "question": "28. An example of process integration would be:",
+      "options": [
+        "A. Using separate software for order processing and inventory without linking",
+        "B. Connecting order processing systems with inventory and MIS to synchronize data",
+        "C. Maintaining isolated databases for sales and inventory",
+        "D. Disabling system communications for security"
+      ]
+    },
+    {
+      "question": "29. Which statement accurately reflects the evolution of MIS in the 1980s and 1990s?",
+      "options": [
+        "A. MIS declined in importance during this period",
+        "B. MIS began to emphasize decision support and strategic planning tools",
+        "C. MIS focused mainly on hardware advancements",
+        "D. MIS replaced all operational systems"
+      ]
+    },
+    {
+      "question": "30. What role does Big Data Analytics play in modern MIS?",
+      "options": [
+        "A. Limits the amount of data processed",
+        "B. Analyzes vast datasets to provide deeper insights and predictions",
+        "C. Simplifies data by removing all complexity",
+        "D. Is unrelated to decision-making"
+      ]
+    }
+  ]
+  }
 ]
