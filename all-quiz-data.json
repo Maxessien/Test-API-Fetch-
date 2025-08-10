@@ -1667,5 +1667,327 @@
       ]
     }
   ]
+ },
+  {
+  "id": "csc122_mis_advanced",
+  "course_code": "CSC 122",
+  "title": "CSC 122 MIS ADVANCED",
+  "questions": [
+    {
+      "question": "1. Which capability most specifically separates an interactive dashboard from a standard report?",
+      "options": [
+        "A. Fixed layout of charts and static tables",
+        "B. Real-time filtering and ad hoc drill-down on metrics",
+        "C. Inclusion of historical archives for compliance",
+        "D. Export-only functionality for offline review"
+      ]
+    },
+    {
+      "question": "2. In choosing a store location, geospatial analytics provides advantage mainly by:",
+      "options": [
+        "A. Optimizing font and color for signage",
+        "B. Revealing spatial trends like customer density and travel corridors",
+        "C. Ensuring server redundancy across regions",
+        "D. Automating payroll for nearby staff"
+      ]
+    },
+    {
+      "question": "3. Which task would NLP be LEAST suited to handle without other sensors or systems?",
+      "options": [
+        "A. Summarizing customer feedback text",
+        "B. Translating sentiment from reviews into scores",
+        "C. Detecting a sudden mechanical vibration on conveyor belts",
+        "D. Enabling keyword search across documents"
+      ]
+    },
+    {
+      "question": "4. Predictive maintenance achieves value primarily by:",
+      "options": [
+        "A. Eliminating all scheduled maintenance entirely",
+        "B. Forecasting failures to plan interventions before breakdowns",
+        "C. Increasing inventory turnover for finished goods",
+        "D. Minimizing data collection to save storage costs"
+      ]
+    },
+    {
+      "question": "5. The primary technical benefit of edge computing in MIS is:",
+      "options": [
+        "A. Moving all processing to centralized cloud datacenters",
+        "B. Reducing latency by processing near data sources",
+        "C. Automatically replacing blockchain for audit trails",
+        "D. Serving as a backup for paper records"
+      ]
+    },
+    {
+      "question": "6. A suitable MIS use for blockchain is:",
+      "options": [
+        "A. Fast in-memory analytics on terabytes of telemetry",
+        "B. Immutable traceability of transactions across suppliers",
+        "C. Replacing encryption for confidential files",
+        "D. Hosting large media files cheaply"
+      ]
+    },
+    {
+      "question": "7. Behavioral analytics in cybersecurity is best described as:",
+      "options": [
+        "A. A static list of allowed IP addresses",
+        "B. Modeling user patterns to flag anomalous actions",
+        "C. Replacing identity verification with anonymous access",
+        "D. Limiting all remote access by default"
+      ]
+    },
+    {
+      "question": "8. The core tenet of Zero Trust is:",
+      "options": [
+        "A. Trust internal network traffic implicitly",
+        "B. Always verify identity and permissions before granting access",
+        "C. Use VPN as the sole security control",
+        "D. Grant broad rights to simplify workflows"
+      ]
+    },
+    {
+      "question": "9. Which design focus most directly reduces user resistance during MIS rollout?",
+      "options": [
+        "A. User-centric design that prioritizes usability and feedback",
+        "B. Only adding advanced technical features for admins",
+        "C. Hiding system changes until after deployment",
+        "D. Switching vendors frequently during development"
+      ]
+    },
+    {
+      "question": "10. An early engagement strategy for adoption should include:",
+      "options": [
+        "A. Releasing the system without consulting users",
+        "B. Conducting workshops, pilots and collecting stakeholder input",
+        "C. Outsourcing all communication to a PR firm only at launch",
+        "D. Forcing a single standardized workflow regardless of teams"
+      ]
+    },
+    {
+      "question": "11. Which KPI is most relevant to measure user-facing MIS quality?",
+      "options": [
+        "A. System uptime percentage",
+        "B. Average sentence length in internal emails",
+        "C. Number of coffee machines in the office",
+        "D. Color palette consistency across reports"
+      ]
+    },
+    {
+      "question": "12. Benchmarking helps an organization by:",
+      "options": [
+        "A. Creating internal jargon to limit comparisons",
+        "B. Comparing performance against peers to set improvement targets",
+        "C. Eliminating the need for user feedback entirely",
+        "D. Stopping performance measurement once benchmarks are set"
+      ]
+    },
+    {
+      "question": "13. The main advantage of a modular architecture is:",
+      "options": [
+        "A. Forcing major rewrites whenever a feature changes",
+        "B. Allowing incremental upgrades and replacing components independently",
+        "C. Increasing tight coupling for faster development",
+        "D. Preventing reuse of any component across projects"
+      ]
+    },
+    {
+      "question": "14. Which statement about cloud integration is most accurate?",
+      "options": [
+        "A. It guarantees lower cost for every workload",
+        "B. It facilitates scalability, remote access and disaster recovery options",
+        "C. It removes the need for governance and compliance",
+        "D. It makes on-premise backups obsolete in all cases"
+      ]
+    },
+    {
+      "question": "15. A data steward is primarily responsible for:",
+      "options": [
+        "A. Physical maintenance of storage racks",
+        "B. Overseeing data quality, definitions and compliance for a domain",
+        "C. Designing logos for data products",
+        "D. Managing printing quotas across departments"
+      ]
+    },
+    {
+      "question": "16. Which activity would NOT normally be part of data cleansing?",
+      "options": [
+        "A. Removing duplicate records",
+        "B. Correcting inconsistent field formats",
+        "C. Validating external data sources",
+        "D. Randomly purging recent transaction logs without checks"
+      ]
+    },
+    {
+      "question": "17. The defining feature of a digital twin is that it:",
+      "options": [
+        "A. Is a static snapshot of a device taken once annually",
+        "B. Is a dynamic virtual replica simulating real-time behavior",
+        "C. Only stores maintenance manuals without sensor inputs",
+        "D. Replaces the physical asset with a software-only product"
+      ]
+    },
+    {
+      "question": "18. Which scenario best matches an application of digital twins?",
+      "options": [
+        "A. Cosmetic redesign of a website homepage",
+        "B. Running scenario tests to optimize machine throughput and uptime",
+        "C. Archiving email threads for audit only",
+        "D. Replacing database indexes to speed queries"
+      ]
+    },
+    {
+      "question": "19. Combining RPA and AI enables automation that can:",
+      "options": [
+        "A. Only click GUI buttons with deterministic steps",
+        "B. Interpret documents and make judgment calls on unstructured inputs",
+        "C. Remove the need for human oversight in every process",
+        "D. Work solely at physical device driver level"
+      ]
+    },
+    {
+      "question": "20. The most valuable outcome of an AI-driven CRM is:",
+      "options": [
+        "A. Consolidating raw server logs into a single table",
+        "B. Delivering insights on customer behavior enabling targeted actions",
+        "C. Deleting old customer records to reduce storage",
+        "D. Forcing all customers to use a single communication channel"
+      ]
+    },
+    {
+      "question": "21. Omnichannel integration in CRM primarily ensures:",
+      "options": [
+        "A. Independent, unconnected customer records per channel",
+        "B. Unified customer interactions to create seamless experiences",
+        "C. That only social media is used for customer contact",
+        "D. That CRM data is visible to all public internet users"
+      ]
+    },
+    {
+      "question": "22. The core advantage of connecting IoT devices to MIS is:",
+      "options": [
+        "A. Increasing paperwork through manual logs",
+        "B. Getting continuous operational measurements for timely decisions",
+        "C. Replacing managerial roles entirely with sensors",
+        "D. Preventing any automated actions based on sensor data"
+      ]
+    },
+    {
+      "question": "23. Using IoT for predictive analytics typically aims to:",
+      "options": [
+        "A. Aggregate only weekly totals for reporting",
+        "B. Forecast equipment issues and operational trends for proactive action",
+        "C. Reduce the number of sensors to one per site for simplicity",
+        "D. Make historical dashboards the sole output of the system"
+      ]
+    },
+    {
+      "question": "24. Data democratization is best described as:",
+      "options": [
+        "A. Hiding data access behind a strict IT-only policy",
+        "B. Providing broader access to data and enabling employees to use analytics tools",
+        "C. Publishing sensitive customer data to all employees by default",
+        "D. Training only the executive team on analytics tools"
+      ]
+    },
+    {
+      "question": "25. A real risk introduced by self-service BI is:",
+      "options": [
+        "A. Faster insight delivery to empowered users",
+        "B. Metric divergence and inconsistent calculations if governance is weak",
+        "C. Total elimination of IT responsibilities overnight",
+        "D. Permanent improvement of data accuracy without oversight"
+      ]
+    },
+    {
+      "question": "26. For data security and privacy, which practice would be counterproductive?",
+      "options": [
+        "A. Implementing encryption and access controls",
+        "B. Regular security audits and compliance checks",
+        "C. Publishing raw customer data publicly for transparency",
+        "D. Keeping policies updated with regulatory changes"
+      ]
+    },
+    {
+      "question": "27. To reduce integration complexity, organizations should:",
+      "options": [
+        "A. Write bespoke point-to-point adapters for every new tool forever",
+        "B. Use middleware, APIs and thorough testing as integration strategy",
+        "C. Mothball all legacy systems without migration planning",
+        "D. Integrate only by manual CSV exports indefinitely"
+      ]
+    },
+    {
+      "question": "28. Sound cost management for MIS implementations usually includes:",
+      "options": [
+        "A. Buying the most expensive turnkey solution without ROI analysis",
+        "B. Running cost–benefit analyses and considering cloud or open-source options",
+        "C. Cutting training and change management to save money",
+        "D. Ignoring operational costs after the purchase"
+      ]
+    },
+    {
+      "question": "29. Successfully adapting to tech change depends mostly on:",
+      "options": [
+        "A. Freezing staff skill development to maintain stability",
+        "B. Continuous learning programs and monitoring new technologies",
+        "C. Outsourcing all innovation decisions with no internal input",
+        "D. Avoiding experimentation altogether to prevent disruption"
+      ]
+    },
+    {
+      "question": "30. The most reliable ways to ensure data accuracy include:",
+      "options": [
+        "A. Turning off validation to speed ingestion",
+        "B. Implementing validation rules, audits and data quality tools",
+        "C. Letting users freely overwrite authoritative records without logs",
+        "D. Relying on ad hoc manual checks once every few years"
+      ]
+    },
+    {
+      "question": "31. Amazon’s MIS strengths in e-commerce are mainly:",
+      "options": [
+        "A. Producing entertaining product descriptions only",
+        "B. Integrating inventory control, personalization and logistics analytics",
+        "C. Using MIS only for payroll processing",
+        "D. Removing choice to simplify the catalog to one item"
+      ]
+    },
+    {
+      "question": "32. The Mayo Clinic’s MIS example mainly shows value by:",
+      "options": [
+        "A. Offering music playlists for patient rooms",
+        "B. Integrating EHRs, patient workflows and clinical decision support",
+        "C. Outsourcing medical records without interoperability",
+        "D. Using MIS only for hospital gift shop sales"
+      ]
+    },
+    {
+      "question": "33. JPMorgan Chase’s MIS example emphasizes:",
+      "options": [
+        "A. Casual record-keeping for cafeteria menus",
+        "B. Real-time monitoring, risk controls and fraud detection at scale",
+        "C. Using MIS solely for HR onboarding forms",
+        "D. Excluding compliance functions from system design"
+      ]
+    },
+    {
+      "question": "34. GE’s manufacturing MIS highlights integration of:",
+      "options": [
+        "A. Office email systems with social profiles",
+        "B. IoT telemetry, production control, supply chain and predictive upkeep",
+        "C. Single-use spreadsheets for all decisions",
+        "D. Manual scheduling without analytics"
+      ]
+    },
+    {
+      "question": "35. Which challenge–solution pairing accurately reflects the lecture note?",
+      "options": [
+        "A. Integration complexity — publish undocumented APIs to users",
+        "B. Ensuring data accuracy — implement validation, audits and quality tools",
+        "C. Cost management — ignore ROI and buy top-tier licenses only",
+        "D. Adapting to change — prohibit staff training to reduce churn"
+      ]
+    }
+   ]
  }
 ]
