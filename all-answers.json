@@ -253,5 +253,40 @@
     "B. IoT telemetry, production control, supply chain and predictive upkeep",
     "B. Ensuring data accuracy — implement validation, audits and quality tools"
   ]
+  },
+  {
+  "id": "csc122_mis_vs_is",
+  "answers": [
+    "B. Reports and dashboards",
+    "B. Providing managers with tools for decision-making",
+    "B. Enterprise Resource Planning (ERP)",
+    "C. IS covers a broad range of systems, while MIS focuses on managerial support",
+    "B. Retail",
+    "B. Data silos with incompatible data structures",
+    "B. Enhanced decision-making through unified data views",
+    "B. Routine tasks like payroll and inventory",
+    "B. Cloud Computing",
+    "B. Executive Information System (EIS)",
+    "B. Combining business processes across systems for synchronized operations",
+    "B. Presentation of processed data in reports and dashboards",
+    "C. Decision Support System (DSS)",
+    "B. Management Information System",
+    "B. Managerial functions such as planning and control",
+    "B. Artificial Intelligence and Machine Learning",
+    "B. Manufacturing Execution System (MES)",
+    "A. Middleware usage",
+    "C. Focusing solely on managerial decision-making",
+    "B. Management Information System (MIS)",
+    "B. Technical difficulty requiring resources and expertise",
+    "B. Transaction Processing System (TPS)",
+    "B. Provide analytical tools for complex decision-making",
+    "B. Users and IT professionals interacting with the system",
+    "B. Visualize and summarize information for managers",
+    "B. Combining multiple advanced technologies to automate complex processes",
+    "C. IS users span all organizational roles, MIS users are mainly managers",
+    "B. Connecting order processing systems with inventory and MIS to synchronize data",
+    "B. MIS began to emphasize decision support and strategic planning tools",
+    "B. Analyzes vast datasets to provide deeper insights and predictions"
+  ]
   }
 ]
