@@ -2266,5 +2266,480 @@
       ]
     }
   ]
-  }
+  },
+  {
+  "id": "csc122_ir_intro",
+  "course_code": "CSC 122",
+  "title": "CSC 122 IR INTRO",
+  "questions": [
+    {
+      "question": "1. IR is mainly about:",
+      "options": [
+        "A. Data encryption",
+        "B. Finding relevant data",
+        "C. Code execution",
+        "D. Hardware control"
+      ]
+    },
+    {
+      "question": "2. Main goal of IR:",
+      "options": [
+        "A. Gather all data",
+        "B. Deliver relevant info",
+        "C. Store files",
+        "D. Track users"
+      ]
+    },
+    {
+      "question": "3. Which is NOT an IR goal?",
+      "options": [
+        "A. Query understanding",
+        "B. Result ranking",
+        "C. Term indexing",
+        "D. Data encryption"
+      ]
+    },
+    {
+      "question": "4. IR sources can be:",
+      "options": [
+        "A. Books only",
+        "B. Images only",
+        "C. Web and databases",
+        "D. Weather feeds"
+      ]
+    },
+    {
+      "question": "5. Ordering results by importance is:",
+      "options": [
+        "A. Ranking",
+        "B. Parsing",
+        "C. Indexing",
+        "D. Crawling"
+      ]
+    },
+    {
+      "question": "6. Example of IR system:",
+      "options": [
+        "A. Search engine",
+        "B. Word processor",
+        "C. Spreadsheet",
+        "D. Antivirus"
+      ]
+    },
+    {
+      "question": "7. A \"collection\" in IR is:",
+      "options": [
+        "A. Index table",
+        "B. Data source set",
+        "C. User profile",
+        "D. Ranking list"
+      ]
+    },
+    {
+      "question": "8. Indexing mainly:",
+      "options": [
+        "A. Deletes old files",
+        "B. Organizes for fast search",
+        "C. Compresses files",
+        "D. Tracks user clicks"
+      ]
+    },
+    {
+      "question": "9. Terms → documents is:",
+      "options": [
+        "A. Forward index",
+        "B. Inverted index",
+        "C. Topic map",
+        "D. Semantic link"
+      ]
+    },
+    {
+      "question": "10. Documents → terms is:",
+      "options": [
+        "A. Inverted index",
+        "B. Forward index",
+        "C. LSA",
+        "D. Graph index"
+      ]
+    },
+    {
+      "question": "11. Common DB index type:",
+      "options": [
+        "A. B-tree",
+        "B. Boolean",
+        "C. Graph",
+        "D. Hash join"
+      ]
+    },
+    {
+      "question": "12. Automated data gathering:",
+      "options": [
+        "A. Crawling",
+        "B. Parsing",
+        "C. Ranking",
+        "D. Filtering"
+      ]
+    },
+    {
+      "question": "13. Breaking query into parts:",
+      "options": [
+        "A. Parsing",
+        "B. Expansion",
+        "C. Linking",
+        "D. Encoding"
+      ]
+    },
+    {
+      "question": "14. Adding synonyms is:",
+      "options": [
+        "A. Expansion",
+        "B. Parsing",
+        "C. Reformulation",
+        "D. Filtering"
+      ]
+    },
+    {
+      "question": "15. Matching query to index is:",
+      "options": [
+        "A. Parsing",
+        "B. Execution",
+        "C. Linking",
+        "D. Ranking"
+      ]
+    },
+    {
+      "question": "16. UI in IR lets users:",
+      "options": [
+        "A. Edit data",
+        "B. Enter/view queries",
+        "C. Encrypt results",
+        "D. Build indexes"
+      ]
+    },
+    {
+      "question": "17. Model using AND/OR logic:",
+      "options": [
+        "A. Boolean",
+        "B. Vector space",
+        "C. Probabilistic",
+        "D. Semantic"
+      ]
+    },
+    {
+      "question": "18. VSM represents as:",
+      "options": [
+        "A. Trees",
+        "B. Vectors",
+        "C. Graphs",
+        "D. Lists"
+      ]
+    },
+    {
+      "question": "19. Common VSM similarity:",
+      "options": [
+        "A. Cosine",
+        "B. Recall",
+        "C. F1",
+        "D. BM25"
+      ]
+    },
+    {
+      "question": "20. Probabilistic rank function:",
+      "options": [
+        "A. BM25",
+        "B. TF-IDF",
+        "C. BERT",
+        "D. LSA"
+      ]
+    },
+    {
+      "question": "21. TF-IDF shows:",
+      "options": [
+        "A. Storage order",
+        "B. Term importance",
+        "C. Query length",
+        "D. Encryption type"
+      ]
+    },
+    {
+      "question": "22. Bag-of-Words ignores:",
+      "options": [
+        "A. Term order",
+        "B. Term count",
+        "C. Vocabulary",
+        "D. Stop words"
+      ]
+    },
+    {
+      "question": "23. Captures meaning from corpora:",
+      "options": [
+        "A. BoW",
+        "B. TF",
+        "C. Embeddings",
+        "D. Boolean"
+      ]
+    },
+    {
+      "question": "24. Word2Vec is:",
+      "options": [
+        "A. Index type",
+        "B. Embedding model",
+        "C. Boolean rule",
+        "D. Metric"
+      ]
+    },
+    {
+      "question": "25. Dimensionality reduction method:",
+      "options": [
+        "A. LDA",
+        "B. LSA",
+        "C. DPR",
+        "D. TF-IDF"
+      ]
+    },
+    {
+      "question": "26. LDA does:",
+      "options": [
+        "A. Topic modeling",
+        "B. Query expansion",
+        "C. Page ranking",
+        "D. Index sorting"
+      ]
+    },
+    {
+      "question": "27. Fit of results to query is:",
+      "options": [
+        "A. Recall",
+        "B. Precision",
+        "C. Relevance",
+        "D. Accuracy"
+      ]
+    },
+    {
+      "question": "28. Precision is:",
+      "options": [
+        "A. Relevant among retrieved",
+        "B. Retrieved among relevant",
+        "C. Retrieval speed",
+        "D. Doc length"
+      ]
+    },
+    {
+      "question": "29. Recall is:",
+      "options": [
+        "A. Relevant among retrieved",
+        "B. Retrieved among relevant",
+        "C. Retrieval speed",
+        "D. Doc length"
+      ]
+    },
+    {
+      "question": "30. F1 is:",
+      "options": [
+        "A. Precision + recall",
+        "B. Harmonic mean of P & R",
+        "C. Ratio of R to P",
+        "D. Cosine score"
+      ]
+    },
+    {
+      "question": "31. Metric balancing P & R:",
+      "options": [
+        "A. F1",
+        "B. Cosine",
+        "C. BM25",
+        "D. TF-IDF"
+      ]
+    },
+    {
+      "question": "32. Relevance feedback:",
+      "options": [
+        "A. Ignores users",
+        "B. Uses user feedback",
+        "C. Rebuilds index",
+        "D. Removes terms"
+      ]
+    },
+    {
+      "question": "33. Query reformulation:",
+      "options": [
+        "A. Index rebuild",
+        "B. Query refinement",
+        "C. Model change",
+        "D. Term deletion"
+      ]
+    },
+    {
+      "question": "34. DPR uses:",
+      "options": [
+        "A. Boolean match",
+        "B. Dense vectors",
+        "C. B-trees",
+        "D. BoW"
+      ]
+    },
+    {
+      "question": "35. Deep contextual model:",
+      "options": [
+        "A. Boolean",
+        "B. BERT",
+        "C. TF-IDF",
+        "D. Index"
+      ]
+    },
+    {
+      "question": "36. Siamese Networks compare:",
+      "options": [
+        "A. Index sizes",
+        "B. Query-doc embeddings",
+        "C. Query lengths",
+        "D. Stop words"
+      ]
+    },
+    {
+      "question": "37. Cross-Encoder processes:",
+      "options": [
+        "A. Query only",
+        "B. Query-doc pair",
+        "C. Index only",
+        "D. Doc only"
+      ]
+    },
+    {
+      "question": "38. Learning-to-rank example:",
+      "options": [
+        "A. RankNet",
+        "B. TF-IDF",
+        "C. AND/OR",
+        "D. LDA"
+      ]
+    },
+    {
+      "question": "39. Semantic search example:",
+      "options": [
+        "A. Topic modeling",
+        "B. Reformulation",
+        "C. Graph indexing",
+        "D. Stop-word removal"
+      ]
+    },
+    {
+      "question": "40. Entity linking connects:",
+      "options": [
+        "A. Entities to KB",
+        "B. Terms to index",
+        "C. Docs to cache",
+        "D. Users to logs"
+      ]
+    },
+    {
+      "question": "41. Knowledge Graphs show:",
+      "options": [
+        "A. Entity relations",
+        "B. Term counts",
+        "C. Relevance scores",
+        "D. Index size"
+      ]
+    },
+    {
+      "question": "42. Cross-lingual embeddings:",
+      "options": [
+        "A. Rank images",
+        "B. Link languages",
+        "C. Expand one language",
+        "D. Count words"
+      ]
+    },
+    {
+      "question": "43. IR in healthcare:",
+      "options": [
+        "A. Movie reviews",
+        "B. Decision support",
+        "C. Social media",
+        "D. Gaming"
+      ]
+    },
+    {
+      "question": "44. Netflix recs use:",
+      "options": [
+        "A. Boolean search",
+        "B. IR in recommendations",
+        "C. Graph indexing",
+        "D. LSA"
+      ]
+    },
+    {
+      "question": "45. Vague queries are:",
+      "options": [
+        "A. Privacy issue",
+        "B. Ambiguity",
+        "C. Scalability",
+        "D. Relevance"
+      ]
+    },
+    {
+      "question": "46. Protecting user data is:",
+      "options": [
+        "A. Privacy/security",
+        "B. Scalability",
+        "C. Multimodal",
+        "D. Ambiguity"
+      ]
+    },
+    {
+      "question": "47. Tailoring to user:",
+      "options": [
+        "A. Personalization",
+        "B. Boolean filter",
+        "C. Index rebuild",
+        "D. Forward index"
+      ]
+    },
+    {
+      "question": "48. Explainable AI shows:",
+      "options": [
+        "A. Ranking logic",
+        "B. Hides ranking",
+        "C. Removes context",
+        "D. Adds noise"
+      ]
+    },
+    {
+      "question": "49. Combining text, image, audio:",
+      "options": [
+        "A. Multimodal",
+        "B. Vector model",
+        "C. Graph index",
+        "D. Topic modeling"
+      ]
+    },
+    {
+      "question": "50. AR/VR in IR:",
+      "options": [
+        "A. Immersive search",
+        "B. Text search",
+        "C. No personalization",
+        "D. Boolean only"
+      ]
+    },
+    {
+      "question": "51. Networks of connected entities:",
+      "options": [
+        "A. Knowledge Graphs",
+        "B. Topic model",
+        "C. Query parsing",
+        "D. Metrics"
+      ]
+    },
+    {
+      "question": "52. Trend improving relevance via entities:",
+      "options": [
+        "A. Knowledge Graphs",
+        "B. Term frequency",
+        "C. Boolean logic",
+        "D. Indexing"
+      ]
+    }
+  ]
+ }
 ]
