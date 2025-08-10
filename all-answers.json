@@ -213,5 +213,45 @@
     "C. Electron distribution around the nucleus",
     "C. Conservation of charge"
   ]
+  },
+  {
+  "id": "csc122_mis_advanced",
+  "answers": [
+    "B. Real-time filtering and ad hoc drill-down on metrics",
+    "B. Revealing spatial trends like customer density and travel corridors",
+    "C. Detecting a sudden mechanical vibration on conveyor belts",
+    "B. Forecasting failures to plan interventions before breakdowns",
+    "B. Reducing latency by processing near data sources",
+    "B. Immutable traceability of transactions across suppliers",
+    "B. Modeling user patterns to flag anomalous actions",
+    "B. Always verify identity and permissions before granting access",
+    "A. User-centric design that prioritizes usability and feedback",
+    "B. Conducting workshops, pilots and collecting stakeholder input",
+    "A. System uptime percentage",
+    "B. Comparing performance against peers to set improvement targets",
+    "B. Allowing incremental upgrades and replacing components independently",
+    "B. It facilitates scalability, remote access and disaster recovery options",
+    "B. Overseeing data quality, definitions and compliance for a domain",
+    "D. Randomly purging recent transaction logs without checks",
+    "B. Is a dynamic virtual replica simulating real-time behavior",
+    "B. Running scenario tests to optimize machine throughput and uptime",
+    "B. Interpret documents and make judgment calls on unstructured inputs",
+    "B. Delivering insights on customer behavior enabling targeted actions",
+    "B. Unified customer interactions to create seamless experiences",
+    "B. Getting continuous operational measurements for timely decisions",
+    "B. Forecast equipment issues and operational trends for proactive action",
+    "B. Providing broader access to data and enabling employees to use analytics tools",
+    "B. Metric divergence and inconsistent calculations if governance is weak",
+    "C. Publishing raw customer data publicly for transparency",
+    "B. Use middleware, APIs and thorough testing as integration strategy",
+    "B. Running cost–benefit analyses and considering cloud or open-source options",
+    "B. Continuous learning programs and monitoring new technologies",
+    "B. Implementing validation rules, audits and data quality tools",
+    "B. Integrating inventory control, personalization and logistics analytics",
+    "B. Integrating EHRs, patient workflows and clinical decision support",
+    "B. Real-time monitoring, risk controls and fraud detection at scale",
+    "B. IoT telemetry, production control, supply chain and predictive upkeep",
+    "B. Ensuring data accuracy — implement validation, audits and quality tools"
+  ]
   }
 ]
